@@ -1,3 +1,7 @@
+% Author: Han Wang
+%% This script is the main script to run the experiment. Run this script to start the experiment. Please make sure you have generated the spreadsheet for the experiment using runStim.m before running this script.
+%% Put 0 for 'dry run' for running on a scanner, otherwise put 1 for collecting behaivioural responses only.
+
 function runExperiment(session)
 
 % Check if "session" is in the correct range

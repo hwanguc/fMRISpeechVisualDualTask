@@ -1,3 +1,6 @@
+% Author: Han Wang
+%% This script generates the spreadsheet for the experiemnt. Run this script before running runExperiment.m to initiate the experiment.
+
 function runStim()
 
 % Store the subject name
