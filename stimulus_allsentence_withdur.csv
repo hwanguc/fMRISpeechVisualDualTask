@@ -1,0 +1,607 @@
+﻿list,sentence_n,sentence,grammar,first_word,keyword_n,keyword_1,keyword_2,keyword_3,keyword_4,filename,audio_dur
+1,1,The clown had a funny face,svoc,determiner,3,clown,funny,face,NA,bkbg0101,1920
+1,2,The car engine's running,sv,determiner,3,car,engines,running,NA,bkbg0102,1546.666667
+1,3,She cut with her knife,svoc,pronoun,3,She,cut,knife,NA,bkbg0103,1504
+1,4,Children like strawberries,svoc,noun,3,Children,like,strawberries,NA,bkbg0104,1642.666667
+1,5,The house had nine rooms,svoc,determiner,3,house,nine,rooms,NA,bkbg0105,1930.666667
+1,6,They’re buying some bread,svoc,pronoun,3,Theyre,buying,bread,NA,bkbg0106,1344
+1,7,The green tomatoes are small,sv,determiner,3,green,tomatoes,small,NA,bkbg0107,1962.666667
+1,8,He played with his train,svoc,pronoun,3,He,played,train,NA,bkbg0108,1600
+1,9,The postman shut the gate,svoc,determiner,3,postman,shut,gate,NA,bkbg0109,1728
+1,10,They’re looking at the clock,svoc,pronoun,4,Theyre,looking,at,clock,bkbg0110,1365.333333
+1,11,The bag bumps on the ground,svoc,determiner,3,bag,bumps,ground,NA,bkbg0111,1920
+1,12,The boy did a handstand,svoc,determiner,3,boy,did,handstand,NA,bkbg0112,1685.333333
+1,13,A cat sits on the bed,svoc,determiner,4,cat,sits,on,bed,bkbg0113,1642.666667
+1,14,The lorry carried fruit,svoc,determiner,3,lorry,carried,fruit,NA,bkbg0114,1706.666667
+1,15,The rain came down,svoc,determiner,3,rain,came,down,NA,bkbg0115,1461.333333
+1,16,The ice cream was pink,sv,determiner,3,ice,cream,pink,NA,bkbg0116,1738.666667
+2,1,The ladder's near the door,svoc,determiner,3,ladders,near,door,NA,bkbg0201,1525.333333
+2,2,They had a lovely day,svoc,pronoun,3,They,lovely,day,NA,bkbg0202,1301.333333
+2,3,The ball went into the goal,svoc,determiner,4,ball,went,into,goal,bkbg0203,1749.333333
+2,4,The old gloves are dirty,sv,determiner,3,old,gloves,dirty,NA,bkbg0204,1504
+2,5,He cut his finger,svoc,pronoun,3,He,cut,finger,NA,bkbg0205,1088
+2,6,The thin dog was hungry,sv,determiner,3,thin,dog,hungry,NA,bkbg0206,1472
+2,7,The boy knew the game,svoc,determiner,3,boy,knew,game,NA,bkbg0207,1482.666667
+2,8,Snow falls at Christmas,svoc,noun,3,Snow,falls,Christmas,NA,bkbg0208,1728
+2,9,She’s taking her coat,svoc,pronoun,3,Shes,taking,coat,NA,bkbg0209,1514.666667
+2,10,The police chased the car,svoc,determiner,3,police,chased,car,NA,bkbg0210,1706.666667
+2,11,A mouse ran down the hole,svoc,determiner,4,mouse,ran,down,hole,bkbg0211,1762.083333
+2,12,The lady’s making a toy,svoc,determiner,3,ladys,making,toy,NA,bkbg0212,1685.333333
+2,13,Some sticks were under the tree,svoc,determiner,3,sticks,under,tree,NA,bkbg0213,1941.333333
+2,14,The little baby sleeps,sv,determiner,3,little,baby,sleeps,NA,bkbg0214,1610.666667
+2,15,They’re watching the train,svoc,pronoun,3,Theyre,watching,train,NA,bkbg0215,1344
+2,16,The school finished early,sva,determiner,3,school,finished,early,NA,bkbg0216,1610.666667
+3,1,The glass bowl broke,sv,determiner,3,glass,bowl,broke,NA,bkbg0301,1621.333333
+3,2,The dog played with a stick,svoc,determiner,3,dog,played,stick,NA,bkbg0302,1589.333333
+3,3,The kettle's quite hot,sv,determiner,3,kettles,quite,hot,NA,bkbg0303,1621.333333
+3,4,The farmer keeps a bull,svoc,determiner,3,farmer,keeps,bull,NA,bkbg0304,1546.666667
+3,5,They say some silly things,svoc,pronoun,4,They,say,silly,things,bkbg0305,1802.666667
+3,6,The lady wore a coat,svoc,determiner,3,lady,wore,coat,NA,bkbg0306,1632
+3,7,The children are walking home,svoc,determiner,3,children,walking,home,NA,bkbg0307,1632
+3,8,He needed his holiday,svoc,pronoun,3,He,needed,holiday,NA,bkbg0308,1429.333333
+3,9,The milk came in a bottle,svoc,determiner,3,milk,came,bottle,NA,bkbg0309,1653.333333
+3,10,The man cleaned his shoes,svoc,determiner,3,man,cleaned,shoes,NA,bkbg0310,1824
+3,11,They ate the lemon jelly,svoc,pronoun,4,They,ate,lemon,jelly,bkbg0311,1504
+3,12,The boys running away,sva,determiner,3,boys,running,away,NA,bkbg0312,1536
+3,13,Father looked at the book,svoc,noun,3,Father,looked,book,NA,bkbg0313,1536
+3,14,She drinks from her cup,svoc,pronoun,3,She,drinks,cup,NA,bkbg0314,1237.333333
+3,15,The room's getting cold,svoc,determiner,3,rooms,getting,cold,NA,bkbg0315,1440
+3,16,A girl kicked the table,svoc,determiner,3,girl,kicked,table,NA,bkbg0316,1546.666667
+4,1,The wife helped her husband,svoc,determiner,3,wife,helped,husband,NA,bkbg0401,1834.666667
+4,2,The machine was quite noisy,sv,determiner,3,machine,quite,noisy,NA,bkbg0402,1738.666667
+4,3,The old man worries,sv,determiner,3,old,man,worries,NA,bkbg0403,1418.666667
+4,4,A boy ran down the path,svoc,determiner,3,boy,ran,path,NA,bkbg0404,1770.666667
+4,5,The house had a nice garden,svoc,determiner,3,house,nice,garden,NA,bkbg0405,1728
+4,6,She spoke to her son,svoc,pronoun,4,She,spoke,to,son,bkbg0406,1397.333333
+4,7,They’re crossing the street,svoc,pronoun,3,Theyre,crossing,street,NA,bkbg0407,1344
+4,8,Lemons grow on trees,svoc,determiner,3,Lemons,grow,trees,NA,bkbg0408,1653.333333
+4,9,He found his brother,svoc,pronoun,3,He,found,brother,NA,bkbg0409,1088
+4,10,Some animals sleep on straw,svoc,determiner,4,animals,sleep,on,straw,bkbg0410,1962.666667
+4,11,The jam jar was full,sv,determiner,3,jam,jar,full,NA,bkbg0411,1429.333333
+4,12,They’re kneeling down,sva,pronoun,3,Theyre,kneeling,down,NA,bkbg0412,1226.666667
+4,13,The girl lost her doll,svoc,determiner,3,girl,lost,doll,NA,bkbg0413,1418.666667
+4,14,The cooks making a cake,svoc,determiner,3,cooks,making,cake,NA,bkbg0414,1642.666667
+4,15,The child grabs the toy,svoc,determiner,3,child,grabs,toy,NA,bkbg0415,1856
+4,16,The mud stuck on his shoe,svoc,determiner,3,mud,stuck,shoe,NA,bkbg0416,1706.666667
+5,1,The bath towel was wet,sv,determiner,3,bath,towel,wet,NA,bkbg0501,1536
+5,2,The matches lie on the shelf,svoc,determiner,3,matches,lie,shelf,NA,bkbg0502,1749.333333
+5,3,They’re running past the house,svoc,pronoun,4,Theyre,running,past,house,bkbg0503,1674.666667
+5,4,The train had a bad crash,svoc,determiner,3,train,bad,crash,NA,bkbg0504,1962.666667
+5,5,The kitchen sink's empty,sv,determiner,3,kitchen,sink,empty,NA,bkbg0505,1749.333333
+5,6,A boy fell from the window,svoc,determiner,3,boy,fell,window,NA,bkbg0506,1845.333333
+5,7,She used her spoon,svoc,pronoun,3,She,used,spoon,NA,bkbg0507,1493.333333
+5,8,The park’s near the road,svoc,determiner,3,parks,near,road,NA,bkbg0508,1504
+5,9,The cook cut some onions,svoc,determiner,3,cook,cut,onions,NA,bkbg0509,1834.666667
+5,10,The dog made an angry noise,svoc,determiner,4,dog,made,angry,noise,bkbg0510,1971.229167
+5,11,He’s washing his face,svoc,pronoun,3,Hes,washing,face,NA,bkbg0511,1696
+5,12,Somebody took the money,svoc,pronoun,3,Somebody,took,money,NA,bkbg0512,1429.333333
+5,13,The light went out,sva,determiner,3,light,went,out,NA,bkbg0513,1546.666667
+5,14,They wanted some potatoes,svoc,pronoun,3,They,wanted,potatoes,NA,bkbg0514,1621.333333
+5,15,The naughty girl’s shouting,sv,determiner,3,naughty,girls,shouting,NA,bkbg0515,1578.666667
+5,16,The cold milk's in a jug,svoc,determiner,3,cold,milks,jug,NA,bkbg0516,1610.666667
+6,1,The paint dripped on the ground,svoc,determiner,3,paint,dripped,ground,NA,bkbg0601,1770.666667
+6,2,The mother stirs the tea,svoc,determiner,3,mother,stirs,tea,NA,bkbg0602,1546.666667
+6,3,They laughed at his story,svoc,pronoun,3,They,laughed,story,NA,bkbg0603,1450.666667
+6,4,Men wear long trousers,svoc,noun,4,Men,wear,long,trousers,bkbg0604,1642.666667
+6,5,The small boy was asleep,sv,determiner,3,small,boy,asleep,NA,bkbg0605,1760
+6,6,The lady goes to the shop,svoc,determiner,4,lady,goes,to,shop,bkbg0606,1514.666667
+6,7,The sun melted the snow,svoc,determiner,3,sun,melted,snow,NA,bkbg0607,1738.666667
+6,8,The father's coming home,svoc,determiner,3,fathers,coming,home,NA,bkbg0608,1578.666667
+6,9,She had her pocket money,svoc,pronoun,3,She,pocket,money,NA,bkbg0609,1418.666667
+6,10,The lorry drove up the road,svoc,determiner,3,lorry,drove,road,NA,bkbg0610,1642.666667
+6,11,He’s bringing his raincoat,svoc,pronoun,3,Hes,bringing,raincoat,NA,bkbg0611,1525.333333
+6,12,A sharp knife's dangerous,sv,determiner,3,sharp,knifes,dangerous,NA,bkbg0612,1834.666667
+6,13,They took some food,svoc,pronoun,3,They,took,food,NA,bkbg0613,1194.666667
+6,14,The clever girls are reading,sv,determiner,3,clever,girls,reading,NA,bkbg0614,1557.333333
+6,15,The broom stood in the corner,svoc,determiner,3,broom,stood,corner,NA,bkbg0615,1610.666667
+6,16,The woman tidied her house,svoc,determiner,3,woman,tidied,house,NA,bkbg0616,1845.333333
+7,1,The children dropped the bag,svoc,determiner,3,children,dropped,bag,NA,bkbg0701,1728
+7,2,The dog came back,sva,determiner,3,dog,came,back,NA,bkbg0702,1376
+7,3,The floor looked clean,sva,determiner,3,floor,looked,clean,NA,bkbg0703,1600
+7,4,She found her purse,svoc,pronoun,3,She,found,purse,NA,bkbg0704,1568
+7,5,The fruit lies on the ground,svoc,determiner,3,fruit,lies,ground,NA,bkbg0705,1760
+7,6,Mother fetches a saucepan,svoc,noun,3,Mother,fetches,saucepan,NA,bkbg0706,1642.666667
+7,7,They washed in cold water,svoc,pronoun,4,They,washed,cold,water,bkbg0707,1557.333333
+7,8,The young people are dancing,sv,determiner,3,young,people,dancing,NA,bkbg0708,1621.333333
+7,9,The bus went early,sva,determiner,3,bus,went,early,NA,bkbg0709,1354.666667
+7,10,They had two empty bottles,svoc,pronoun,4,They,two,empty,bottles,bkbg0710,1824
+7,11,A ball's bouncing along,sva,determiner,3,balls,bouncing,along,NA,bkbg0711,1738.666667
+7,12,The father forgot the bread,svoc,determiner,3,father,forgot,bread,NA,bkbg0712,1610.666667
+7,13,The girl has a picture book,svoc,determiner,3,girl,picture,book,NA,bkbg0713,1578.666667
+7,14,The orange was quite sweet,sv,determiner,3,orange,quite,sweet,NA,bkbg0714,1824
+7,15,He’s holding his nose,svoc,pronoun,3,Hes,holding,nose,NA,bkbg0715,1429.333333
+7,16,The new road’s on the map,svoc,determiner,3,new,roads,map,NA,bkbg0716,1568
+8,1,The boy forgot his book,svoc,determiner,3,boy,forgot,book,NA,bkbg0801,1568
+8,2,A friend came for lunch,svoc,determiner,3,friend,came,lunch,NA,bkbg0802,1621.333333
+8,3,The match boxes are empty,sv,determiner,3,match,boxes,empty,NA,bkbg0803,1504
+8,4,He climbed his ladder,svoc,pronoun,3,He,climbed,ladder,NA,bkbg0804,1120
+8,5,The family bought a house,svoc,determiner,3,family,bought,house,NA,bkbg0805,1664
+8,6,The jug stood on the shelf,svoc,determiner,3,jug,stood,shelf,NA,bkbg0806,1717.333333
+8,7,The ball broke the window,svoc,determiner,3,ball,broke,window,NA,bkbg0807,1706.666667
+8,8,They’re shopping for cheese,svoc,pronoun,3,Theyre,shopping,cheese,NA,bkbg0808,1472
+8,9,The pond water's dirty,sv,determiner,3,pond,waters,dirty,NA,bkbg0809,1557.333333
+8,10,They heard a funny noise,svoc,pronoun,4,They,heard,funny,noise,bkbg0810,1557.333333
+8,11,Police are clearing the road,svoc,noun,3,Police,clearing,road,NA,bkbg0811,1664
+8,12,The bus stopped suddenly,sva,determiner,3,bus,stopped,suddenly,NA,bkbg0812,1578.666667
+8,13,She writes to her brother,svoc,pronoun,3,She,writes,brother,NA,bkbg0813,1450.666667
+8,14,The footballer lost a boot,svoc,determiner,3,footballer,lost,boot,NA,bkbg0814,1728
+8,15,The three girls are listening,sv,determiner,3,three,girls,listening,NA,bkbg0815,1696
+8,16,The coat lies on a chair,svoc,determiner,4,coat,lies,on,chair,bkbg0816,1664
+9,1,The book tells a story,svoc,determiner,3,book,tells,story,NA,bkbg0901,1525.333333
+9,2,The young boy left home,svoc,determiner,4,young,boy,left,home,bkbg0902,1546.666667
+9,3,They’re climbing the tree,svoc,pronoun,3,Theyre,climbing,tree,NA,bkbg0903,1354.666667
+9,4,She stood near her window,svoc,pronoun,3,She,stood,window,NA,bkbg0904,1653.333333
+9,5,The table has three legs,svoc,determiner,3,table,three,legs,NA,bkbg0905,1760
+9,6,A letter fell on the mat,svoc,determiner,3,letter,fell,mat,NA,bkbg0906,1685.333333
+9,7,The five men are working,sv,determiner,3,five,men,working,NA,bkbg0907,1493.333333
+9,8,He listens to his father,svoc,pronoun,4,He,listens,to,father,bkbg0908,1557.333333
+9,9,The shoes were very dirty,sv,determiner,3,shoes,very,dirty,NA,bkbg0909,1802.666667
+9,10,They went on holiday,svoc,pronoun,3,They,went,holiday,NA,bkbg0910,1269.333333
+9,11,Baby broke his mug,svoc,noun,3,Baby,broke,mug,NA,bkbg0911,1397.333333
+9,12,The lady packed her bag,svoc,determiner,3,lady,packed,bag,NA,bkbg0912,1546.666667
+9,13,The dinner plate's hot,sv,determiner,3,dinner,plates,hot,NA,bkbg0913,1344
+9,14,The train’s moving fast,sva,determiner,3,trains,moving,fast,NA,bkbg0914,1717.333333
+9,15,The child drank some milk,svoc,determiner,3,child,drank,milk,NA,bkbg0915,1642.666667
+9,16,The car hit a wall,svoc,determiner,3,car,hit,wall,NA,bkbg0916,1365.333333
+10,1,A tea towel’s by the sink,svoc,determiner,3,tea,towels,sink,NA,bkbg1001,1568
+10,2,The cleaner used a broom,svoc,determiner,3,cleaner,used,broom,NA,bkbg1002,1632
+10,3,She looked in her mirror,svoc,pronoun,4,She,looked,in,mirror,bkbg1003,1194.666667
+10,4,The good boy's helping,sv,determiner,3,good,boys,helping,NA,bkbg1004,1322.666667
+10,5,They followed the path,svoc,pronoun,3,They,followed,path,NA,bkbg1005,1226.666667
+10,6,The kitchen clock was wrong,sv,determiner,3,kitchen,clock,wrong,NA,bkbg1006,1610.666667
+10,7,The dog jumped on the chair,svoc,determiner,4,dog,jumped,on,chair,bkbg1007,1568
+10,8,Someone’s crossing the road,svoc,pronoun,3,Someones,crossing,road,NA,bkbg1008,1600
+10,9,The postman brings a letter,svoc,determiner,3,postman,brings,letter,NA,bkbg1009,1482.666667
+10,10,They’re cycling along,sva,pronoun,3,Theyre,cycling,along,NA,bkbg1010,1237.333333
+10,11,He broke his leg,svoc,pronoun,3,He,broke,leg,NA,bkbg1011,981.3333333
+10,12,The milk was by the front door,svoc,determiner,3,milk,front,door,NA,bkbg1012,1696
+10,13,The shirts hang in the cupboard,svoc,determiner,3,shirts,hang,cupboard,NA,bkbg1013,1568
+10,14,The ground was too hard,sv,determiner,3,ground,too,hard,NA,bkbg1014,1418.666667
+10,15,The buckets hold water,svoc,determiner,3,buckets,hold,water,NA,bkbg1015,1482.666667
+10,16,The chicken laid some eggs,svoc,determiner,3,chicken,laid,eggs,NA,bkbg1016,1621.333333
+11,1,The sweet shop was empty,sv,determiner,3,sweet,shop,empty,NA,bkbg1101,1418.666667
+11,2,The dogs go for a walk,svoc,determiner,3,dogs,go,walk,NA,bkbg1102,1557.333333
+11,3,She’s washing her dress,svoc,pronoun,3,Shes,washing,dress,NA,bkbg1103,1376
+11,4,The lady stayed for tea,svoc,determiner,3,lady,stayed,tea,NA,bkbg1104,1504
+11,5,The driver waits by the corner,svoc,determiner,3,driver,waits,corner,NA,bkbg1105,1621.333333
+11,6,They finished the dinner,svoc,pronoun,3,They,finished,dinner,NA,bkbg1106,1098.666667
+11,7,The policeman knows the way,svoc,determiner,3,policeman,knows,way,NA,bkbg1107,1568
+11,8,The little girl was happy,sv,determiner,3,little,girl,happy,NA,bkbg1108,1386.666667
+11,9,He wore his yellow shirt,svoc,pronoun,4,He,wore,yellow,shirt,bkbg1109,1493.333333
+11,10,They’re coming for Christmas,svoc,pronoun,3,Theyre,coming,Christmas,NA,bkbg1110,1312
+11,11,The cow gave some milk,svoc,determiner,3,cow,gave,milk,NA,bkbg1111,1418.666667
+11,12,The boy got into bed,svoc,determiner,4,boy,got,into,bed,bkbg1112,1322.666667
+11,13,The two farmers are talking,sv,determiner,3,two,farmers,talking,NA,bkbg1113,1546.666667
+11,14,Mother picked some flowers,svoc,noun,3,Mother,picked,flowers,NA,bkbg1114,1493.333333
+11,15,A fish lay on the plate,svoc,determiner,3,fish,lay,plate,NA,bkbg1115,1621.333333
+11,16,The father writes a letter,svoc,determiner,3,father,writes,letter,NA,bkbg1116,1418.666667
+12,1,The food cost a lot,svoc,determiner,3,food,cost,lot,NA,bkbg1201,1440
+12,2,The girl's washing her hair,svoc,determiner,3,girls,washing,hair,NA,bkbg1202,1600
+12,3,The front garden was pretty,sv,determiner,3,front,garden,pretty,NA,bkbg1203,1514.666667
+12,4,He lost his hat,svoc,pronoun,3,He,lost,hat,NA,bkbg1204,1013.333333
+12,5,The taps are above the sink,svoc,determiner,3,taps,above,sink,NA,bkbg1205,1760
+12,6,Father paid at the gate,svoc,noun,4,Father,paid,at,gate,bkbg1206,1440
+12,7,She’s waiting for her bus,svoc,pronoun,3,Shes,waiting,bus,NA,bkbg1207,1450.666667
+12,8,The bread van's coming,sv,determiner,3,bread,vans,coming,NA,bkbg1208,1269.333333
+12,9,They had some cold meat,svoc,pronoun,3,They,cold,meat,NA,bkbg1209,1237.333333
+12,10,The football game's over,sv,determiner,3,football,games,over,NA,bkbg1210,1376
+12,11,They carry some shopping bags,svoc,pronoun,4,They,carry,shopping,bags,bkbg1211,1664
+12,12,The children help the milkman,svoc,determiner,3,children,help,milkman,NA,bkbg1212,1621.333333
+12,13,The picture came from a book,svoc,determiner,3,picture,came,book,NA,bkbg1213,1536
+12,14,The rice pudding was ready,sv,determiner,3,rice,pudding,ready,NA,bkbg1214,1418.666667
+12,15,The boy had a toy dragon,svoc,determiner,3,boy,toy,dragon,NA,bkbg1215,1610.666667
+12,16,A tree fell on the house,svoc,determiner,3,tree,fell,house,NA,bkbg1216,1610.666667
+13,1,The fruit came in a box,svoc,determiner,3,fruit,came,box,NA,bkbg1301,1514.666667
+13,2,The husband brings some flowers,svoc,determiner,3,husband,brings,flowers,NA,bkbg1302,1792
+13,3,They’re playing in the park,svoc,pronoun,3,Theyre,playing,park,NA,bkbg1303,1365.333333
+13,4,She argued with her sister,svoc,pronoun,3,She,argued,sister,NA,bkbg1304,1589.333333
+13,5,A man told the police,svoc,determiner,3,man,told,police,NA,bkbg1305,1653.333333
+13,6,Potatoes grow in the ground,svoc,noun,3,otatoes,row,ground,NA,bkbg1306,1802.666667
+13,7,He’s cleaning his car,svoc,pronoun,3,Hes,cleaning,car,NA,bkbg1307,1269.333333
+13,8,The mouse found the cheese,svoc,determiner,3,mouse,found,cheese,NA,bkbg1308,1482.666667
+13,9,They waited for one hour,svoc,pronoun,4,They,waited,one,hour,bkbg1309,1376
+13,10,The big dog was dangerous,sv,determiner,3,big,dog,dangerous,NA,bkbg1310,1578.666667
+13,11,The strawberry jam was sweet,sv,determiner,3,strawberry,jam,sweet,NA,bkbg1311,1685.333333
+13,12,The plant hangs above the door,svoc,determiner,4,plant,hangs,above,door,bkbg1312,1664
+13,13,The children are all eating,sv,determiner,3,children,all,eating,NA,bkbg1313,1536
+13,14,The boy has black hair,svoc,determiner,3,boy,black,hair,NA,bkbg1314,1408
+13,15,The mother heard her baby,svoc,determiner,3,mother,heard,baby,NA,bkbg1315,1440
+13,16,The lorry climbed the hill,svoc,determiner,3,lorry,climbed,hill,NA,bkbg1316,1440
+14,1,The angry man shouted,sv,determiner,3,angry,man,shouted,NA,bkbg1401,1587.645833
+14,2,The dog sleeps in a basket,svoc,determiner,3,dog,sleeps,basket,NA,bkbg1402,1802.666667
+14,3,They’re drinking tea,sv,pronoun,3,Theyre,drinking,tea,NA,bkbg1403,1120
+14,4,Mother opens the drawer,svoc,noun,3,Mother,opens,drawer,NA,bkbg1404,1418.666667
+14,5,An old woman was at home,svoc,determiner,3,old,woman,home,NA,bkbg1405,1557.333333
+14,6,He dropped his money,svoc,pronoun,3,He,dropped,money,NA,bkbg1406,1002.666667
+14,7,They broke all the eggs,svoc,pronoun,4,They,broke,all,eggs,bkbg1407,1376
+14,8,The kitchen window was clean,sv,determiner,3,kitchen,window,clean,NA,bkbg1408,1770.666667
+14,9,The girl plays with the baby,svoc,determiner,3,girl,plays,baby,NA,bkbg1409,1642.666667
+14,10,The big fish got away,sva,determiner,4,big,fish,got,away,bkbg1410,1578.666667
+14,11,She’s helping her friend,svoc,pronoun,3,Shes,helping,friend,NA,bkbg1411,1504
+14,12,The children washed the plates,svoc,determiner,3,children,washed,plates,NA,bkbg1412,1781.333333
+14,13,The postman comes early,sva,determiner,3,postman,comes,early,NA,bkbg1413,1568
+14,14,The sign showed the way,svoc,determiner,3,sign,showed,way,NA,bkbg1414,1600
+14,15,The grass is getting long,sva,determiner,3,grass,getting,long,NA,bkbg1415,1600
+14,16,The match fell on the floor,svoc,determiner,3,match,fell,floor,NA,bkbg1416,1621.333333
+15,1,A man’s turning the tap,svoc,determiner,3,mans,turning,tap,NA,bkbg1501,1760
+15,2,The fire was very hot,sv,determiner,3,fire,very,hot,NA,bkbg1502,1482.666667
+15,3,He’s sucking his thumb,svoc,pronoun,3,Hes,sucking,thumb,NA,bkbg1503,1280
+15,4,The shop closed for lunch,svoc,determiner,3,shop,closed,lunch,NA,bkbg1504,1866.666667
+15,5,The driver starts the engine,svoc,determiner,3,driver,starts,engine,NA,bkbg1505,1813.333333
+15,6,The boy hurried to school,svoc,determiner,3,boy,hurried,school,NA,bkbg1506,1600
+15,7,Some nice people are coming,sv,determiner,3,nice,people,coming,NA,bkbg1507,1653.333333
+15,8,She bumped her head,svoc,pronoun,3,She,bumped,head,NA,bkbg1508,1184
+15,9,They met some friends,svoc,pronoun,4,They,met,some,friends,bkbg1509,1354.666667
+15,10,Flowers grow in the garden,svoc,noun,3,Flowers,grow,garden,NA,bkbg1510,1578.666667
+15,11,The tiny baby was pretty,sv,determiner,3,tiny,baby,pretty,NA,bkbg1511,1632
+15,12,The daughter laid the table,svoc,determiner,3,daughter,laid,table,NA,bkbg1512,1472
+15,13,They walked across the grass,svoc,pronoun,4,They,walked,across,grass,bkbg1513,1653.333333
+15,14,The mother tied the string,svoc,determiner,3,mother,tied,string,NA,bkbg1514,1493.333333
+15,15,The train stops at the station,svoc,determiner,3,train,stops,station,NA,bkbg1515,1813.333333
+15,16,The puppy plays with a ball,svoc,determiner,3,puppy,plays,ball,NA,bkbg1516,1578.666667
+16,1,The children wave at the train,svoc,determiner,3,children,wave,train,NA,bkbg1601,1728
+16,2,Mother cut the Christmas cake,svoc,noun,4,Mother,cut,Christmas,cake,bkbg1602,1642.666667
+16,3,He closed his eyes,svoc,pronoun,3,He,closed,eyes,NA,bkbg1603,1344
+16,4,The raincoat's very wet,sv,determiner,3,raincoats,very,wet,NA,bkbg1604,1706.666667
+16,5,A lady buys some butter,svoc,determiner,3,lady,buys,butter,NA,bkbg1605,1557.333333
+16,6,They called an ambulance,svoc,pronoun,3,They,called,ambulance,NA,bkbg1606,1312
+16,7,She’s paying for her bread,svoc,pronoun,3,Shes,paying,bread,NA,bkbg1607,1440
+16,8,The policeman found a dog,svoc,determiner,3,policeman,found,dog,NA,bkbg1608,1504
+16,9,Some men shave in the morning,svoc,determiner,3,men,shave,morning,NA,bkbg1609,1696
+16,10,The driver lost his way,svoc,determiner,3,driver,lost,way,NA,bkbg1610,1450.666667
+16,11,They stared at the picture,svoc,pronoun,3,They,stared,picture,NA,bkbg1611,1333.333333
+16,12,The cat drank from a saucer,svoc,determiner,3,cat,drank,saucer,NA,bkbg1612,1728
+16,13,The oven door was open,sv,determiner,3,oven,door,open,NA,bkbg1613,1429.333333
+16,14,The cars going too fast,sva,determiner,4,cars,going,too,fast,bkbg1614,1728
+16,15,The silly boy's hiding,sv,determiner,3,silly,boys,hiding,NA,bkbg1615,1536
+16,16,The painter used a brush,svoc,determiner,3,painter,used,brush,NA,bkbg1616,1514.666667
+17,1,The apple pie's cooking,sv,determiner,3,apple,pies,cooking,NA,bkbg1701,1504
+17,2,He drinks from his mug,svoc,pronoun,3,He,drinks,mug,NA,bkbg1702,1248
+17,3,The sky was very blue,sv,determiner,3,sky,very,blue,NA,bkbg1703,1589.333333
+17,4,They knocked on the window,svoc,pronoun,3,They,knocked,window,NA,bkbg1704,1397.333333
+17,5,The big boy kicked the ball,svoc,determiner,4,big,boy,kicked,ball,bkbg1705,1610.666667
+17,6,People are going home,svoc,noun,3,People,going,home,NA,bkbg1706,1376
+17,7,The baby wants his bottle,svoc,determiner,3,baby,wants,bottle,NA,bkbg1707,1440
+17,8,The lady sat on her chair,svoc,determiner,3,lady,sat,chair,NA,bkbg1708,1696
+17,9,They had some jam pudding,svoc,pronoun,3,They,jam,pudding,NA,bkbg1709,1397.333333
+17,10,The scissors are quite sharp,sv,determiner,3,scissors,quite,sharp,NA,bkbg1710,1546.666667
+17,11,She’s calling her daughter,svoc,pronoun,3,Shes,calling,daughter,NA,bkbg1711,1344
+17,12,Some brown leaves fell off the tree,svoc,determiner,4,brown,leaves,fell,tree,bkbg1712,1964.916667
+17,13,The milkman carried the cream,svoc,determiner,3,milkman,carried,cream,NA,bkbg1713,1802.666667
+17,14,A girl ran along,sva,determiner,3,girl,ran,along,NA,bkbg1714,1376
+17,15,The mother reads a paper,svoc,determiner,3,mother,reads,paper,NA,bkbg1715,1386.666667
+17,16,The dog chased the cat,svoc,determiner,3,dog,chased,cat,NA,bkbg1716,1418.666667
+18,1,The cake shop's opening,sv,determiner,3,cake,shops,opening,NA,bkbg1801,1376
+18,2,They like orange marmalade,svoc,pronoun,4,They,like,orange,marmalade,bkbg1802,1610.666667
+18,3,The mother shut the window,svoc,determiner,3,mother,shut,window,NA,bkbg1803,1504
+18,4,He’s skating with his friend,svoc,pronoun,4,Hes,skating,with,friend,bkbg1804,1664
+18,5,The cheese pie was good,sv,determiner,3,cheese,pie,good,NA,bkbg1805,1546.666667
+18,6,Rain falls from clouds,svoc,noun,3,Rain,falls,clouds,NA,bkbg1806,1824
+18,7,She talked to her doll,svoc,pronoun,3,She,talked,doll,NA,bkbg1807,1376
+18,8,They painted the wall,svoc,pronoun,3,They,painted,wall,NA,bkbg1808,1205.333333
+18,9,The towel dropped on the floor,svoc,determiner,3,towel,dropped,floor,NA,bkbg1809,1600
+18,10,The dog's eating some meat,svoc,determiner,3,dogs,eating,meat,NA,bkbg1810,1546.666667
+18,11,A boy broke the fence,svoc,determiner,3,boy,broke,fence,NA,bkbg1811,1589.333333
+18,12,The yellow pears were lovely,sv,determiner,3,yellow,pears,lovely,NA,bkbg1812,1642.666667
+18,13,The police help the driver,svoc,determiner,3,police,help,driver,NA,bkbg1813,1674.666667
+18,14,The snow lay on the roof,svoc,determiner,3,snow,lay,roof,NA,bkbg1814,1696
+18,15,The lady washed the shirt,svoc,determiner,3,lady,washed,shirt,NA,bkbg1815,1589.333333
+18,16,The cup hangs on a hook,svoc,determiner,3,cup,hangs,hook,NA,bkbg1816,1589.333333
+19,1,The family like fish,svoc,determiner,3,family,like,fish,NA,bkbg1901,1504
+19,2,Sugar's very sweet,sv,noun,3,Sugars,very,sweet,NA,bkbg1902,1472
+19,3,The baby lay on a rug,svoc,determiner,3,baby,lay,rug,NA,bkbg1903,1450.666667
+19,4,The washing machine broke,sv,determiner,3,washing,machine,broke,NA,bkbg1904,1557.333333
+19,5,They’re clearing the table,svoc,pronoun,3,Theyre,clearing,table,NA,bkbg1905,1322.666667
+19,6,The cleaner swept the floor,svoc,determiner,3,cleaner,swept,floor,NA,bkbg1906,1632
+19,7,A grocer sells butter,svoc,determiner,3,grocer,sells,butter,NA,bkbg1907,1461.333333
+19,8,The bath water was warm,sv,determiner,3,bath,water,warm,NA,bkbg1908,1536
+19,9,He’s reaching for his spoon,svoc,pronoun,3,Hes,reaching,spoon,NA,bkbg1909,1557.333333
+19,10,She hurt her hand,svoc,pronoun,3,She,hurt,hand,NA,bkbg1910,1344
+19,11,The milkman drives a small van,svoc,determiner,4,milkman,drives,small,van,bkbg1911,1961.020833
+19,12,The boy slipped on the stairs,svoc,determiner,4,boy,slipped,on,stairs,bkbg1912,1877.333333
+19,13,They’re staying for supper,svoc,pronoun,3,Theyre,staying,supper,NA,bkbg1913,1248
+19,14,The girl held a mirror,svoc,determiner,3,girl,held,mirror,NA,bkbg1914,1354.666667
+19,15,The cup stood on a saucer,svoc,determiner,3,cup,stood,saucer,NA,bkbg1915,1653.333333
+19,16,The cows went to market,svoc,determiner,3,cows,went,market,NA,bkbg1916,1674.666667
+20,1,The boy got into trouble,svoc,determiner,3,boy,got,trouble,NA,bkbg2001,1482.666667
+20,2,They’re going out,sva,pronoun,3,Theyre,going,out,NA,bkbg2002,1034.666667
+20,3,The football hit the goalpost,svoc,determiner,3,football,hit,goalpost,NA,bkbg2003,1824
+20,4,He paid his bill,svoc,pronoun,3,He,paid,bill,NA,bkbg2004,1088
+20,5,The teacloth's quite wet,sv,determiner,3,teacloths,quite,wet,NA,bkbg2005,1578.666667
+20,6,A cat jumped off the fence,svoc,determiner,4,cat,jumped,off,fence,bkbg2006,1770.666667
+20,7,The baby has blue eyes,svoc,determiner,3,baby,blue,eyes,NA,bkbg2007,1706.666667
+20,8,They sat on a wooden bench,svoc,pronoun,4,They,sat,wooden,bench,bkbg2008,1738.666667
+20,9,Mother made some curtains,svoc,noun,3,Mother,made,curtains,NA,bkbg2009,1642.666667
+20,10,The oven's too hot,sv,determiner,3,ovens,too,hot,NA,bkbg2010,1376
+20,11,The girl caught a cold,svoc,determiner,3,girl,caught,cold,NA,bkbg2011,1418.666667
+20,12,The raincoat's hanging up,sva,determiner,3,raincoats,hanging,up,NA,bkbg2012,1610.666667
+20,13,She brushed her hair,svoc,pronoun,3,She,brushed,hair,NA,bkbg2013,1269.333333
+20,14,The two children are laughing,sv,determiner,3,two,children,laughing,NA,bkbg2014,1632
+20,15,The man tied his scarf,svoc,determiner,3,man,tied,scarf,NA,bkbg2015,1632
+20,16,The flower stands in a pot,svoc,determiner,3,flower,stands,pot,NA,bkbg2016,1728
+21,1,The pepper pot was empty,sv,determiner,3,pepper,pot,empty,NA,bkbg2101,1514.666667
+21,2,The dog drank from a bowl,svoc,determiner,3,dog,drank,bowl,NA,bkbg2102,1749.333333
+21,3,A girl came into the room,svoc,determiner,3,girl,came,room,NA,bkbg2103,1696
+21,4,They’re pushing an old car,svoc,pronoun,4,Theyre,pushing,old,car,bkbg2104,1578.666667
+21,5,The cat caught a mouse,svoc,determiner,3,cat,caught,mouse,NA,bkbg2105,1600
+21,6,The road goes up a hill,svoc,determiner,4,road,goes,up,hill,bkbg2106,1546.666667
+21,7,She made her bed,svoc,pronoun,3,She,made,bed,NA,bkbg2107,1237.333333
+21,8,Bananas are yellow fruit,svoc,noun,3,Bananas,yellow,fruit,NA,bkbg2108,1792
+21,9,The cow lies on the grass,svoc,determiner,3,cow,lies,grass,NA,bkbg2109,1920
+21,10,The egg cups are on the table,svoc,determiner,3,egg,cups,table,NA,bkbg2110,1600
+21,11,He frightened his sister,svoc,pronoun,3,He,frightened,sister,NA,bkbg2111,1312
+21,12,The cricket team's playing,sv,determiner,3,cricket,teams,playing,NA,bkbg2112,1600
+21,13,The father picked some pears,svoc,determiner,3,father,picked,pears,NA,bkbg2113,1845.333333
+21,14,The kettle boiled quickly,sva,determiner,3,kettle,boiled,quickly,NA,bkbg2114,1568
+21,15,The man’s painting a sign,svoc,determiner,3,mans,painting,sign,NA,bkbg2115,1653.333333
+21,16,They lost some money,svoc,pronoun,3,They,lost,money,NA,bkbg2116,1056
+1,1,They moved the furniture,NA,NA,3,They,moved,furniture,NA,aslg0101,1440
+1,2,He's wiping the table,NA,NA,3,Hes,wiping,table,NA,aslg0102,1450.666667
+1,3,He hit his head,NA,NA,3,He,hit,head,NA,aslg0103,1098.666667
+1,4,The yellow leaves are falling,NA,NA,3,yellow,leaves,falling,NA,aslg0104,1760
+1,5,The cat played with some wool,NA,NA,3,cat,played,wool,NA,aslg0105,1792
+1,6,The bag was very heavy,NA,NA,3,bag,very,heavy,NA,aslg0106,1472
+1,7,The towel dripped on the carpet,NA,NA,3,towel,dripped,carpet,NA,aslg0107,1826.395833
+1,8,The bull chased the lady,NA,NA,3,bull,chased,lady,NA,aslg0108,1728
+1,9,The man dug his garden,NA,NA,3,man,dug,garden,NA,aslg0109,1834.666667
+1,10,The room has a lovely view,NA,NA,3,room,lovely,view,NA,aslg0110,1696
+1,11,The girl helped in the kitchen,NA,NA,3,girl,helped,kitchen,NA,aslg0111,1674.666667
+1,12,The old shoes were muddy,NA,NA,3,old,shoes,muddy,NA,aslg0112,1472
+1,13,Father's hiding the presents,NA,NA,3,Fathers,hiding,presents,NA,aslg0113,1877.333333
+1,14,The milk boiled over,NA,NA,3,milk,boiled,over,NA,aslg0114,1610.666667
+1,15,The neighbour knocked at the door,NA,NA,3,neighbour,knocked,door,NA,aslg0115,1728
+2,1,He tore his shirt,NA,NA,3,He,tore,shirt,NA,aslg0201,1205.333333
+2,2,They finished the jigsaw,NA,NA,3,They,finished,jigsaw,NA,aslg0202,1397.333333
+2,3,She brought her camera,NA,NA,3,She,brought,camera,NA,aslg0203,1450.666667
+2,4,The lady watered her plants,NA,NA,3,lady,watered,plants,NA,aslg0204,1952
+2,5,The salt cellar's full,NA,NA,3,salt,cellars,full,NA,aslg0205,1312
+2,6,The boy hit his thumb,NA,NA,3,boy,hit,thumb,NA,aslg0206,1472
+2,7,The mother shook her head,NA,NA,3,mother,shook,head,NA,aslg0207,1589.333333
+2,8,The snow lay on the hills,NA,NA,3,snow,lay,hills,NA,aslg0208,1792
+2,9,The father used a towel,NA,NA,3,father,used,towel,NA,aslg0209,1525.333333
+2,10,The tree was in the back garden,NA,NA,3,tree,back,garden,NA,aslg0210,1717.333333
+2,11,The yacht sailed past,NA,NA,3,yacht,sailed,past,NA,aslg0211,1546.666667
+2,12,The lady pushed the pram,NA,NA,3,lady,pushed,pram,NA,aslg0212,1429.333333
+2,13,They're leaving today,NA,NA,3,Theyre,leaving,today,NA,aslg0213,1444.25
+2,14,The picture hung on the wall,NA,NA,3,picture,hung,wall,NA,aslg0214,1674.666667
+2,15,The children sit under the tree,NA,NA,3,children,sit,tree,NA,aslg0215,1696
+3,1,The lunch was very early,NA,NA,3,lunch,very,early,NA,aslg0301,1930.666667
+3,2,The dirty boy is washing,NA,NA,3,dirty,boy,washing,NA,aslg0302,1866.666667
+3,3,He hid his money,NA,NA,3,He,hid,money,NA,aslg0303,1146.625
+3,4,The curtains were too short,NA,NA,3,curtains,too,short,NA,aslg0304,1627.958333
+3,5,The knife cut the cake,NA,NA,3,knife,cut,cake,NA,aslg0305,1526.791667
+3,6,They emptied their pockets,NA,NA,3,They,emptied,pockets,NA,aslg0306,1866.666667
+3,7,The new shoes were tight,NA,NA,3,new,shoes,tight,NA,aslg0307,1941.333333
+3,8,The coat hangs in a cupboard,NA,NA,3,coat,hangs,cupboard,NA,aslg0308,1717.333333
+3,9,The sun shone through the clouds,NA,NA,3,sun,shone,clouds,NA,aslg0309,1972.416667
+3,10,She took her purse,NA,NA,3,She,took,purse,NA,aslg0310,1728
+3,11,The team lost the match,NA,NA,3,team,lost,match,NA,aslg0311,1536
+3,12,The shirt caught on a nail,NA,NA,3,shirt,caught,nail,NA,aslg0312,1856
+3,13,They picked some raspberries,NA,NA,3,They,picked,raspberries,NA,aslg0313,1866.666667
+3,14,The man climbed the mountain,NA,NA,3,man,climbed,mountain,NA,aslg0314,1598.416667
+3,15,The lady hurt her arm,NA,NA,3,lady,hurt,arm,NA,aslg0315,1609.291667
+4,1,The old clothes were dirty,NA,NA,3,old,clothes,dirty,NA,aslg0401,1600
+4,2,He carried a stick,NA,NA,3,He,carried,stick,NA,aslg0402,1258.666667
+4,3,She read her book,NA,NA,3,She,read,book,NA,aslg0403,1184
+4,4,The new house was empty,NA,NA,3,new,house,empty,NA,aslg0404,1408
+4,5,The thief brought a ladder,NA,NA,3,thief,brought,ladder,NA,aslg0405,1408
+4,6,The horse stands by the gate,NA,NA,3,horse,stands,gate,NA,aslg0406,1920
+4,7,They're heading for the park,NA,NA,3,Theyre,heading,park,NA,aslg0407,1568
+4,8,The gardener trimmed the hedge,NA,NA,3,gardener,trimmed,hedge,NA,aslg0408,1578.666667
+4,9,They're standing up,NA,NA,3,Theyre,standing,up,NA,aslg0409,1301.333333
+4,10,Someone's hiding in the bushes,NA,NA,3,Someones,hiding,bushes,NA,aslg0410,1898.666667
+4,11,The waiter lit the candles,NA,NA,3,waiter,lit,candles,NA,aslg0411,1749.333333
+4,12,The baker iced the cake,NA,NA,3,baker,iced,cake,NA,aslg0412,1568
+4,13,The woman slipped on the ice,NA,NA,3,woman,slipped,ice,NA,aslg0413,1962.666667
+4,14,The small puppy was scared,NA,NA,3,small,puppy,scared,NA,aslg0414,1813.333333
+4,15,The lady changed her mind,NA,NA,3,lady,changed,mind,NA,aslg0415,1898.666667
+5,1,The daughter closed the box,NA,NA,3,daughter,closed,box,NA,aslg0501,1811.145833
+5,2,He broke into the safe,NA,NA,3,He,broke,safe,NA,aslg0502,1749.333333
+5,3,The doctor carries a bag,NA,NA,3,doctor,carries,bag,NA,aslg0503,1759.75
+5,4,The new game was silly,NA,NA,3,new,game,silly,NA,aslg0504,1397.333333
+5,5,The little boy was tired,NA,NA,3,little,boy,tired,NA,aslg0505,1578.666667
+5,6,They saw the sign,NA,NA,3,They,saw,sign,NA,aslg0506,1627.770833
+5,7,She's wrapping the parcel,NA,NA,3,Shes,wrapping,parcel,NA,aslg0507,1715.104167
+5,8,The children laughed at the clown,NA,NA,3,children,laughed,clown,NA,aslg0508,1792
+5,9,The apple pie was hot,NA,NA,3,apple,pie,hot,NA,aslg0509,1482.666667
+5,10,The ship sailed up the river,NA,NA,3,ship,sailed,river,NA,aslg0510,1706.666667
+5,11,The house had a lovely garden,NA,NA,3,house,lovely,garden,NA,aslg0511,1907.125
+5,12,The noisy dog is barking,NA,NA,3,noisy,dog,barking,NA,aslg0512,1952
+5,13,They bought some tickets,NA,NA,3,They,bought,tickets,NA,aslg0513,1472
+5,14,The man goes to the bank,NA,NA,3,man,goes,bank,NA,aslg0514,1749.333333
+5,15,The nurse helped the child,NA,NA,3,nurse,helped,child,NA,aslg0515,1774.916667
+6,1,The girl knew the story,NA,NA,3,girl,knew,story,NA,aslg0601,1525.333333
+6,2,He reached for a cup,NA,NA,3,He,reached,cup,NA,aslg0602,1301.333333
+6,3,The lady was quite cross,NA,NA,3,lady,quite,cross,NA,aslg0603,1728
+6,4,The rope was too short,NA,NA,3,rope,too,short,NA,aslg0604,1632
+6,5,She's listening to the radio,NA,NA,3,Shes,listening,radio,NA,aslg0605,1568
+6,6,The husband cleaned the car,NA,NA,3,husband,cleaned,car,NA,aslg0606,1546.666667
+6,7,The postman leaned on the fence,NA,NA,3,postman,leaned,fence,NA,aslg0607,1960.291667
+6,8,The china vase was broken,NA,NA,3,china,vase,broken,NA,aslg0608,1851.916667
+6,9,The other team won,NA,NA,3,other,team,won,NA,aslg0609,1397.333333
+6,10,They locked the safe,NA,NA,3,They,locked,safe,NA,aslg0610,1482.666667
+6,11,The leaves dropped from the trees,NA,NA,3,leaves,dropped,trees,NA,aslg0611,1966.166667
+6,12,The men watched the race,NA,NA,3,men,watched,race,NA,aslg0612,1575.541667
+6,13,The bird's building a nest,NA,NA,3,birds,building,nest,NA,aslg0613,1706.291667
+6,14,The woman called her dog,NA,NA,3,woman,called,dog,NA,aslg0614,1738.666667
+6,15,They're waving at the train,NA,NA,3,Theyre,waving,train,NA,aslg0615,1514.666667
+7,1,The cat scratched the chair,NA,NA,3,cat,scratched,chair,NA,aslg0701,1831.9375
+7,2,She tapped at the window,NA,NA,3,She,tapped,window,NA,aslg0702,1578.666667
+7,3,The man painted the gate,NA,NA,3,man,painted,gate,NA,aslg0703,1888
+7,4,He slid on the floor,NA,NA,3,He,slid,floor,NA,aslg0704,1472
+7,5,They're lifting the box,NA,NA,3,Theyre,lifting,box,NA,aslg0705,1408
+7,6,The woman listened to her iend,NA,NA,3,woman,listened,iend,NA,aslg0706,1876.375
+7,7,The driver hooted his horn,NA,NA,3,driver,hooted,horn,NA,aslg0707,1813.333333
+7,8,The cake tasted nice,NA,NA,3,cake,tasted,nice,NA,aslg0708,1568
+7,9,The sailor stood on the deck,NA,NA,3,sailor,stood,deck,NA,aslg0709,1621.333333
+7,10,The young girls were pretty,NA,NA,3,young,girls,pretty,NA,aslg0710,1514.666667
+7,11,They painted the ceiling,NA,NA,3,They,painted,ceiling,NA,aslg0711,1226.666667
+7,12,The back door was shut,NA,NA,3,back,door,shut,NA,aslg0712,1290.666667
+7,13,The tree lost its leaves,NA,NA,3,tree,lost,leaves,NA,aslg0713,1600
+7,14,The boy eats with his fork,NA,NA,3,boy,eats,fork,NA,aslg0714,1717.333333
+7,15,The young mother's shopping,NA,NA,3,young,mothers,shopping,NA,aslg0715,1717.333333
+8,1,The girl sharpened her pencil,NA,NA,3,girl,sharpened,pencil,NA,aslg0801,1766.354167
+8,2,She closed her eyes,NA,NA,3,She,closed,eyes,NA,aslg0802,1770.666667
+8,3,The puppy licked his master,NA,NA,3,puppy,licked,master,NA,aslg0803,1653.333333
+8,4,The plant grows on the wall,NA,NA,3,plant,grows,wall,NA,aslg0804,1759.729167
+8,5,The family's having a picnic,NA,NA,3,familys,having,picnic,NA,aslg0805,1813.333333
+8,6,The train arrived on time,NA,NA,3,train,arrived,time,NA,aslg0806,1941.333333
+8,7,They won the game,NA,NA,3,They,won,game,NA,aslg0807,1344
+8,8,The lady waited for her husband,NA,NA,3,lady,waited,husband,NA,aslg0808,1888
+8,9,The post office was near,NA,NA,3,post,office,near,NA,aslg0809,1322.666667
+8,10,They rowed the boat,NA,NA,3,They,rowed,boat,NA,aslg0810,1290.666667
+8,11,The old fox was sly,NA,NA,3,old,fox,sly,NA,aslg0811,1903.291667
+8,12,The baby lost his rattle,NA,NA,3,baby,lost,rattle,NA,aslg0812,1685.333333
+8,13,He dug with his spade,NA,NA,3,He,dug,spade,NA,aslg0813,1525.333333
+8,14,The boiled egg was soft,NA,NA,3,boiled,egg,soft,NA,aslg0814,1685.333333
+8,15,The two ladies were watching,NA,NA,3,two,ladies,watching,NA,aslg0815,1760
+9,1,The car engine's running,NA,NA,3,car,engines,running,NA,aslg0901,1813.333333
+9,2,They parked by the station,NA,NA,3,They,parked,station,NA,aslg0902,1781.333333
+9,3,The lemons were quite bitter,NA,NA,3,lemons,quite,bitter,NA,aslg0903,1766.625
+9,4,They're cutting the grass,NA,NA,3,Theyre,cutting,grass,NA,aslg0904,1642.666667
+9,5,The woman called a doctor,NA,NA,3,woman,called,doctor,NA,aslg0905,1664
+9,6,The man shaved with a razor,NA,NA,3,man,shaved,razor,NA,aslg0906,1834.666667
+9,7,He tied his shoelaces,NA,NA,3,He,tied,shoelaces,NA,aslg0907,1482.666667
+9,8,The bus is leaving early,NA,NA,3,bus,leaving,early,NA,aslg0908,1546.666667
+9,9,She's sewing on a button,NA,NA,3,Shes,sewing,button,NA,aslg0909,1461.333333
+9,10,The horse kicked the rider,NA,NA,3,horse,kicked,rider,NA,aslg0910,1728
+9,11,The yellow bananas are ripe,NA,NA,3,yellow,bananas,ripe,NA,aslg0911,1642.854167
+9,12,The lady has a fur coat,NA,NA,3,lady,fur,coat,NA,aslg0912,1653.333333
+9,13,The cat jumped onto the table,NA,NA,3,cat,jumped,table,NA,aslg0913,1696
+9,14,The book sits on the shelf,NA,NA,3,book,sits,shelf,NA,aslg0914,1493.333333
+9,15,The boy told a joke,NA,NA,3,boy,told,joke,NA,aslg0915,1322.666667
+10,1,She sings in the bath,NA,NA,3,She,sings,bath,NA,aslg1001,1930.666667
+10,2,The meat was too tough,NA,NA,3,meat,too,tough,NA,aslg1002,1526.541667
+10,3,The child ate some jam,NA,NA,3,child,ate,jam,NA,aslg1003,1973.333333
+10,4,They're stealing the apples,NA,NA,3,Theyre,stealing,apples,NA,aslg1004,1674.666667
+10,5,The children dried the dishes,NA,NA,3,children,dried,dishes,NA,aslg1005,1742.8125
+10,6,The paper boy was cheeky,NA,NA,3,paper,boy,cheeky,NA,aslg1006,1834.666667
+10,7,The little car was slow,NA,NA,3,little,car,slow,NA,aslg1007,1856
+10,8,The bath taps are dripping,NA,NA,3,bath,taps,dripping,NA,aslg1008,1760
+10,9,They came at Easter,NA,NA,3,They,came,Easter,NA,aslg1009,1597.4375
+10,10,He's wearing a tie,NA,NA,3,Hes,wearing,tie,NA,aslg1010,1578.166667
+10,11,The new towel was clean,NA,NA,3,new,towel,clean,NA,aslg1011,1483.75
+10,12,The water poured from a jug,NA,NA,3,water,poured,jug,NA,aslg1012,1781.333333
+10,13,The red apples were in a bowl,NA,NA,3,red,apples,bowl,NA,aslg1013,1747.395833
+10,14,The bus stopped at the shops,NA,NA,3,bus,stopped,shops,NA,aslg1014,1685.333333
+10,15,The man drew with a pencil,NA,NA,3,man,drew,pencil,NA,aslg1015,1754.8125
+11,1,The lady cut her finger,NA,NA,3,lady,cut,finger,NA,aslg1101,1504
+11,2,The horses stood under the tree,NA,NA,3,horses,stood,tree,NA,aslg1102,1774.333333
+11,3,Mother's talking to the milkman,NA,NA,3,Mothers,talking,milkman,NA,aslg1103,1608.166667
+11,4,She polished her shoes,NA,NA,3,She,polished,shoes,NA,aslg1104,1431.520833
+11,5,Some iends stayed for supper,NA,NA,3,iends,stayed,supper,NA,aslg1105,1930.666667
+11,6,The pudding was very good,NA,NA,3,pudding,very,good,NA,aslg1106,1974.166667
+11,7,The apples came in a bag,NA,NA,3,apples,came,bag,NA,aslg1107,1629.1875
+11,8,The greedy boy was hungry,NA,NA,3,greedy,boy,hungry,NA,aslg1108,1845.333333
+11,9,The three men were angry,NA,NA,3,three,men,angry,NA,aslg1109,1610.666667
+11,10,The children cleared the table,NA,NA,3,children,cleared,table,NA,aslg1110,1699.104167
+11,11,The man forgot his change,NA,NA,3,man,forgot,change,NA,aslg1111,1932.75
+11,12,The clothes are covered in mud,NA,NA,3,clothes,covered,mud,NA,aslg1112,1742.583333
+11,13,The raincoat's wet through,NA,NA,3,raincoats,wet,through,NA,aslg1113,1802.666667
+11,14,The three iends are cycling,NA,NA,3,three,iends,cycling,NA,aslg1114,1736.5
+11,15,They tied the rope,NA,NA,3,They,tied,rope,NA,aslg1115,1397.333333
+12,1,Christmas is coming soon,NA,NA,3,Christmas,coming,soon,NA,aslg1201,1909.166667
+12,2,The tall man was thin,NA,NA,3,tall,man,thin,NA,aslg1202,1845.333333
+12,3,The girl broke a vase,NA,NA,3,girl,broke,vase,NA,aslg1203,1525.333333
+12,4,The other team are losing,NA,NA,3,other,team,losing,NA,aslg1204,1962.666667
+12,5,The girl's playing tennis,NA,NA,3,girls,playing,tennis,NA,aslg1205,1623.8125
+12,6,The lady spoke to the driver,NA,NA,3,lady,spoke,driver,NA,aslg1206,1724.479167
+12,7,The noise scared the sheep,NA,NA,3,noise,scared,sheep,NA,aslg1207,1845.145833
+12,8,She's sitting on the swing,NA,NA,3,Shes,sitting,swing,NA,aslg1208,1632
+12,9,The red ball's bouncing,NA,NA,3,red,balls,bouncing,NA,aslg1209,1578.666667
+12,10,The children heard the doorbell,NA,NA,3,children,heard,doorbell,NA,aslg1210,1638.916667
+12,11,They worked in the rain,NA,NA,3,They,worked,rain,NA,aslg1211,1642.666667
+12,12,The children carried the suitcase,NA,NA,3,children,carried,suitcase,NA,aslg1212,1939.3125
+12,13,The new teacher's nice,NA,NA,3,new,teachers,nice,NA,aslg1213,1632.979167
+12,14,The traffic lights are green,NA,NA,3,traffic,lights,green,NA,aslg1214,1974.666667
+12,15,They're going to the seaside,NA,NA,3,Theyre,going,seaside,NA,aslg1215,1525.333333
+13,1,The story's very exciting,NA,NA,3,storys,very,exciting,NA,aslg1301,1888
+13,2,He's kicking the door,NA,NA,3,Hes,kicking,door,NA,aslg1302,1194.666667
+13,3,The pool was very deep,NA,NA,3,pool,very,deep,NA,aslg1303,1621.333333
+13,4,Mother served the soup,NA,NA,3,Mother,served,soup,NA,aslg1304,1589.333333
+13,5,The woman used her key,NA,NA,3,woman,used,key,NA,aslg1305,1856
+13,6,The red dress was pretty,NA,NA,3,red,dress,pretty,NA,aslg1306,1621.333333
+13,7,The pears were too hard,NA,NA,3,pears,too,hard,NA,aslg1307,1450.666667
+13,8,He turned on the taps,NA,NA,3,He,turned,taps,NA,aslg1308,1312
+13,9,She tore her dress,NA,NA,3,She,tore,dress,NA,aslg1309,1365.333333
+13,10,Mother's filling the kettle,NA,NA,3,Mothers,filling,kettle,NA,aslg1310,1461.333333
+13,11,The lady writes to her sister,NA,NA,3,lady,writes,sister,NA,aslg1311,1717.333333
+13,12,They're looking at the clock,NA,NA,3,Theyre,looking,clock,NA,aslg1312,1418.666667
+13,13,The farmer's buying some pigs,NA,NA,3,farmers,buying,pigs,NA,aslg1313,1728.895833
+13,14,The old man is leaving,NA,NA,3,old,man,leaving,NA,aslg1314,1632
+13,15,The boy ate his lunch,NA,NA,3,boy,ate,lunch,NA,aslg1315,1962.666667
+14,1,The chocolate box was empty,NA,NA,3,chocolate,box,empty,NA,aslg1401,1738.666667
+14,2,The boy filled the buckets,NA,NA,3,boy,filled,buckets,NA,aslg1402,1781.333333
+14,3,The lorry drove up the hill,NA,NA,3,lorry,drove,hill,NA,aslg1403,1461.333333
+14,4,They called the police,NA,NA,3,They,called,police,NA,aslg1404,1248
+14,5,The lady wore her coat,NA,NA,3,lady,wore,coat,NA,aslg1405,1461.333333
+14,6,The policeman stopped the traffic,NA,NA,3,policeman,stopped,traffic,NA,aslg1406,1653.333333
+14,7,The dog heard a noise,NA,NA,3,dog,heard,noise,NA,aslg1407,1429.333333
+14,8,The rose bush was blooming,NA,NA,3,rose,bush,blooming,NA,aslg1408,1525.333333
+14,9,The cows grazed in the field,NA,NA,3,cows,grazed,field,NA,aslg1409,1728
+14,10,The sun came out,NA,NA,3,sun,came,out,NA,aslg1410,1184
+14,11,He's starting the engine,NA,NA,3,Hes,starting,engine,NA,aslg1411,1440
+14,12,He's visiting his uncle,NA,NA,3,Hes,visiting,uncle,NA,aslg1412,1578.666667
+14,13,The jam sticks to the plate,NA,NA,3,jam,sticks,plate,NA,aslg1413,1600
+14,14,They're bringing some pears,NA,NA,3,Theyre,bringing,pears,NA,aslg1414,1546.666667
+14,15,The garden's very neat,NA,NA,3,gardens,very,neat,NA,aslg1415,1514.666667
+15,1,The red bus was late,NA,NA,3,red,bus,late,NA,aslg1501,1312
+15,2,They're leaning on the ladder,NA,NA,3,Theyre,leaning,ladder,NA,aslg1502,1461.333333
+15,3,The ice cream is melting,NA,NA,3,ice,cream,melting,NA,aslg1503,1440
+15,4,The green apples were sour,NA,NA,3,green,apples,sour,NA,aslg1504,1799.770833
+15,5,The family ate supper,NA,NA,3,family,ate,supper,NA,aslg1505,1605.333333
+15,6,The horse was quite old,NA,NA,3,horse,quite,old,NA,aslg1506,1504
+15,7,The towel's quite dry,NA,NA,3,towels,quite,dry,NA,aslg1507,1781.333333
+15,8,The birds sang from the tree,NA,NA,3,birds,sang,tree,NA,aslg1508,1674.666667
+15,9,The lion escaped from the zoo,NA,NA,3,lion,escaped,zoo,NA,aslg1509,1792
+15,10,The man took a picture,NA,NA,3,man,took,picture,NA,aslg1510,1173.333333
+15,11,They're buying some lunch,NA,NA,3,Theyre,buying,lunch,NA,aslg1511,1333.333333
+15,12,He's combing his hair,NA,NA,3,Hes,combing,hair,NA,aslg1512,1365.333333
+15,13,They watched the sunset,NA,NA,3,They,watched,sunset,NA,aslg1513,1248
+15,14,Someone's listening at the door,NA,NA,3,Someones,listening,door,NA,aslg1514,1725.083333
+15,15,The girl told her mother,NA,NA,3,girl,told,mother,NA,aslg1515,1269.333333
+16,1,They did their homework,NA,NA,3,They,did,homework,NA,aslg1601,1098.666667
+16,2,The sister hurt her leg,NA,NA,3,sister,hurt,leg,NA,aslg1602,1578.666667
+16,3,The two boys are laughing,NA,NA,3,two,boys,laughing,NA,aslg1603,1354.666667
+16,4,The big needle was sharp,NA,NA,3,big,needle,sharp,NA,aslg1604,1696
+16,5,The hill was very steep,NA,NA,3,hill,very,steep,NA,aslg1605,1578.666667
+16,6,Roses grow in the garden,NA,NA,3,Roses,grow,garden,NA,aslg1606,1738.666667
+16,7,The puppy chased the ball,NA,NA,3,puppy,chased,ball,NA,aslg1607,1322.666667
+16,8,The father answered the door,NA,NA,3,father,answered,door,NA,aslg1608,1493.333333
+16,9,The iends came for tea,NA,NA,3,iends,came,tea,NA,aslg1609,1632
+16,10,The old man was poor,NA,NA,3,old,man,poor,NA,aslg1610,1322.666667
+16,11,They ate some plums,NA,NA,3,They,ate,plums,NA,aslg1611,1333.333333
+16,12,The mice saw the trap,NA,NA,3,mice,saw,trap,NA,aslg1612,1557.333333
+16,13,The car hit the tree,NA,NA,3,car,hit,tree,NA,aslg1613,1557.333333
+16,14,They're hanging up their coats,NA,NA,3,Theyre,hanging,coats,NA,aslg1614,1792
+16,15,She's holding a brush,NA,NA,3,Shes,holding,brush,NA,aslg1615,1194.666667
+17,1,The man climbed the ladder,NA,NA,3,man,climbed,ladder,NA,aslg1701,1621.333333
+17,2,Mother cooked the dinner,NA,NA,3,Mother,cooked,dinner,NA,aslg1702,1141.333333
+17,3,The ice rink was closed,NA,NA,3,ice,rink,closed,NA,aslg1703,1738.666667
+17,4,The ice cream was cold,NA,NA,3,ice,cream,cold,NA,aslg1704,1834.666667
+17,5,They closed the curtains,NA,NA,3,They,closed,curtains,NA,aslg1705,1365.333333
+17,6,The doctor came quickly,NA,NA,3,doctor,came,quickly,NA,aslg1706,1333.333333
+17,7,The ice melted in the sun,NA,NA,3,ice,melted,sun,NA,aslg1707,1600
+17,8,They ran up the hill,NA,NA,3,They,ran,hill,NA,aslg1708,1034.666667
+17,9,The milk was very cold,NA,NA,3,milk,very,cold,NA,aslg1709,1536
+17,10,The father signed a letter,NA,NA,3,father,signed,letter,NA,aslg1710,1621.333333
+17,11,He remembered the way,NA,NA,3,He,remembered,way,NA,aslg1711,1280
+17,12,The loud noise was sudden,NA,NA,3,loud,noise,sudden,NA,aslg1712,1630.895833
+17,13,The boy grazed his knee,NA,NA,3,boy,grazed,knee,NA,aslg1713,1482.666667
+17,14,The lady has small feet,NA,NA,3,lady,small,feet,NA,aslg1714,1536
+17,15,They helped with the dishes,NA,NA,3,They,helped,dishes,NA,aslg1715,1461.333333
+18,1,They watched the cricket,NA,NA,3,They,watched,cricket,NA,aslg1801,1120
+18,2,The girl carried a basket,NA,NA,3,girl,carried,basket,NA,aslg1802,1930.666667
+18,3,The baby sleeps in a cot,NA,NA,3,baby,sleeps,cot,NA,aslg1803,1557.333333
+18,4,The daughter drank some lemonade,NA,NA,3,daughter,drank,lemonade,NA,aslg1804,1793.625
+18,5,The little girl was staring,NA,NA,3,little,girl,staring,NA,aslg1805,1770.666667
+18,6,They're living by the sea,NA,NA,3,Theyre,living,sea,NA,aslg1806,1674.666667
+18,7,The church stood on the hill,NA,NA,3,church,stood,hill,NA,aslg1807,1450.666667
+18,8,The farmer sowed some seeds,NA,NA,3,farmer,sowed,seeds,NA,aslg1808,1824
+18,9,The east wind was cold,NA,NA,3,east,wind,cold,NA,aslg1809,1728
+18,10,The blue towel was damp,NA,NA,3,blue,towel,damp,NA,aslg1810,1621.333333
+18,11,The man forgot his hat,NA,NA,3,man,forgot,hat,NA,aslg1811,1621.333333
+18,12,Mother's reading a story,NA,NA,3,Mothers,reading,story,NA,aslg1812,1365.333333
+18,13,She ironed her skirt,NA,NA,3,She,ironed,skirt,NA,aslg1813,1653.333333
+18,14,The floor was quite slippery,NA,NA,3,floor,quite,slippery,NA,aslg1814,1568
+18,15,The biscuit tin was empty,NA,NA,3,biscuit,tin,empty,NA,aslg1815,1834.666667

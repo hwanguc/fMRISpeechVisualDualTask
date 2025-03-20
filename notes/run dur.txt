@@ -1,0 +1,2 @@
+Pre-train dual dur: 123.5s
+Main dur: 332.2s

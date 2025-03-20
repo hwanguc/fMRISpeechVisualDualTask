@@ -1,0 +1,337 @@
+list,sentence_n,sentence,grammar,first_word,keyword_n,keyword_1,keyword_2,keyword_3,keyword_4,filename,audio_dur
+1,1,The clown had a funny face,svoc,determiner,3,clown,funny,face,,bkbf0101,1789.024943
+1,2,The car engine's running,sv,determiner,3,car,engines,running,,bkbf0102,1627.981859
+1,3,She cut with her knife,svoc,pronoun,3,She,cut,knife,,bkbf0103,1377.959184
+1,4,Children like strawberries,svoc,noun,3,Children,like,strawberries,,bkbf0104,1632.154195
+1,5,The house had nine rooms,svoc,determiner,3,house,nine,rooms,,bkbf0105,1672.698413
+1,6,They’re buying some bread,svoc,pronoun,3,Theyre,buying,bread,,bkbf0106,1380.997732
+1,7,The green tomatoes are small,sv,determiner,3,green,tomatoes,small,,bkbf0107,1861.451247
+1,8,He played with his train,svoc,pronoun,3,He,played,train,,bkbf0108,1392.60771
+1,9,The postman shut the gate,svoc,determiner,3,postman,shut,gate,,bkbf0109,1534.240363
+1,10,They’re looking at the clock,svoc,pronoun,4,Theyre,looking,at,clock,bkbf0110,1325.759637
+1,11,The bag bumps on the ground,svoc,determiner,3,bag,bumps,ground,,bkbf0111,1765.804989
+1,12,The boy did a handstand,svoc,determiner,3,boy,did,handstand,,bkbf0112,1600.136054
+1,13,A cat sits on the bed,svoc,determiner,4,cat,sits,on,bed,bkbf0113,1459.229025
+1,14,The lorry carried fruit,svoc,determiner,3,lorry,carried,fruit,,bkbf0114,1565.85034
+1,15,The rain came down,svoc,determiner,3,rain,came,down,,bkbf0115,1370.15873
+1,16,The ice cream was pink,sv,determiner,3,ice,cream,pink,,bkbf0116,1391.791383
+2,1,The ladder's near the door,svoc,determiner,3,ladders,near,door,,bkbf0201,1294.648526
+2,2,They had a lovely day,svoc,pronoun,3,They,lovely,day,,bkbf0202,1295.238095
+2,3,The ball went into the goal,svoc,determiner,4,ball,went,into,goal,bkbf0203,1557.913832
+2,4,The old gloves are dirty,sv,determiner,3,old,gloves,dirty,,bkbf0204,1515.782313
+2,5,He cut his finger,svoc,pronoun,3,He,cut,finger,,bkbf0205,1104.353741
+2,6,The thin dog was hungry,sv,determiner,3,thin,dog,hungry,,bkbf0206,1518.321995
+2,7,The boy knew the game,svoc,determiner,3,boy,knew,game,,bkbf0207,1342.675737
+2,8,Snow falls at Christmas,svoc,noun,3,Snow,falls,Christmas,,bkbf0208,1821.85941
+2,9,She’s taking her coat,svoc,pronoun,3,Shes,taking,coat,,bkbf0209,1482.76644
+2,10,The police chased the car,svoc,determiner,3,police,chased,car,,bkbf0210,1558.185941
+2,11,A mouse ran down the hole,svoc,determiner,4,mouse,ran,down,hole,bkbf0211,1556.9161
+2,12,The lady’s making a toy,svoc,determiner,3,ladys,making,toy,,bkbf0212,1431.519274
+2,13,Some sticks were under the tree,svoc,determiner,3,sticks,under,tree,,bkbf0213,1739.319728
+2,14,The little baby sleeps,sv,determiner,3,little,baby,sleeps,,bkbf0214,1584.897959
+2,15,They’re watching the train,svoc,pronoun,3,Theyre,watching,train,,bkbf0215,1346.031746
+2,16,The school finished early,sva,determiner,3,school,finished,early,,bkbf0216,1471.020408
+3,1,The glass bowl broke,sv,determiner,3,glass,bowl,broke,,bkbf0301,1471.927438
+3,2,The dog played with a stick,svoc,determiner,3,dog,played,stick,,bkbf0302,1500.272109
+3,3,The kettle's quite hot,sv,determiner,3,kettles,quite,hot,,bkbf0303,1389.160998
+3,4,The farmer keeps a bull,svoc,determiner,3,farmer,keeps,bull,,bkbf0304,1402.267574
+3,5,They say some silly things,svoc,pronoun,4,They,say,silly,things,bkbf0305,1790.975057
+3,6,The lady wore a coat,svoc,determiner,3,lady,wore,coat,,bkbf0306,1375.37415
+3,7,The children are walking home,svoc,determiner,3,children,walking,home,,bkbf0307,1601.85941
+3,8,He needed his holiday,svoc,pronoun,3,He,needed,holiday,,bkbf0308,1383.174603
+3,9,The milk came in a bottle,svoc,determiner,3,milk,came,bottle,,bkbf0309,1368.979592
+3,10,The man cleaned his shoes,svoc,determiner,3,man,cleaned,shoes,,bkbf0310,1488.526077
+3,11,They ate the lemon jelly,svoc,pronoun,4,They,ate,lemon,jelly,bkbf0311,1361.405896
+3,12,The boys running away,sva,determiner,3,boys,running,away,,bkbf0312,1317.097506
+3,13,Father looked at the book,svoc,noun,3,Father,looked,book,,bkbf0313,1467.845805
+3,14,She drinks from her cup,svoc,pronoun,3,She,drinks,cup,,bkbf0314,1429.433107
+3,15,The room's getting cold,svoc,determiner,3,rooms,getting,cold,,bkbf0315,1521.133787
+3,16,A girl kicked the table,svoc,determiner,3,girl,kicked,table,,bkbf0316,1483.038549
+4,1,The wife helped her husband,svoc,determiner,3,wife,helped,husband,,bkbf0401,1734.920635
+4,2,The machine was quite noisy,sv,determiner,3,machine,quite,noisy,,bkbf0402,1669.478458
+4,3,The old man worries,sv,determiner,3,old,man,worries,,bkbf0403,1536.734694
+4,4,A boy ran down the path,svoc,determiner,3,boy,ran,path,,bkbf0404,1725.442177
+4,5,The house had a nice garden,svoc,determiner,3,house,nice,garden,,bkbf0405,1627.709751
+4,6,She spoke to her son,svoc,pronoun,4,She,spoke,to,son,bkbf0406,1371.609977
+4,7,They’re crossing the street,svoc,pronoun,3,Theyre,crossing,street,,bkbf0407,1385.351474
+4,8,Lemons grow on trees,svoc,determiner,3,Lemons,grow,trees,,bkbf0408,1752.199546
+4,9,He found his brother,svoc,pronoun,3,He,found,brother,,bkbf0409,1265.442177
+4,10,Some animals sleep on straw,svoc,determiner,4,animals,sleep,on,straw,bkbf0410,1771.655329
+4,11,The jam jar was full,sv,determiner,3,jam,jar,full,,bkbf0411,1289.705215
+4,12,They’re kneeling down,sva,pronoun,3,Theyre,kneeling,down,,bkbf0412,1220
+4,13,The girl lost her doll,svoc,determiner,3,girl,lost,doll,,bkbf0413,1570.204082
+4,14,The cooks making a cake,svoc,determiner,3,cooks,making,cake,,bkbf0414,1535.102041
+4,15,The child grabs the toy,svoc,determiner,3,child,grabs,toy,,bkbf0415,1641.768707
+4,16,The mud stuck on his shoe,svoc,determiner,3,mud,stuck,shoe,,bkbf0416,1575.918367
+5,1,The bath towel was wet,sv,determiner,3,bath,towel,wet,,bkbf0501,1592.471655
+5,2,The matches lie on the shelf,svoc,determiner,3,matches,lie,shelf,,bkbf0502,1678.321995
+5,3,They’re running past the house,svoc,pronoun,4,Theyre,running,past,house,bkbf0503,1700.997732
+5,4,The train had a bad crash,svoc,determiner,3,train,bad,crash,,bkbf0504,1688.798186
+5,5,The kitchen sink's empty,sv,determiner,3,kitchen,sink,empty,,bkbf0505,1638.004535
+5,6,A boy fell from the window,svoc,determiner,3,boy,fell,window,,bkbf0506,1674.557823
+5,7,She used her spoon,svoc,pronoun,3,She,used,spoon,,bkbf0507,1407.573696
+5,8,The park’s near the road,svoc,determiner,3,parks,near,road,,bkbf0508,1429.206349
+5,9,The cook cut some onions,svoc,determiner,3,cook,cut,onions,,bkbf0509,1582.857143
+5,10,The dog made an angry noise,svoc,determiner,4,dog,made,angry,noise,bkbf0510,1871.746032
+5,11,He’s washing his face,svoc,pronoun,3,Hes,washing,face,,bkbf0511,1307.210884
+5,12,Somebody took the money,svoc,pronoun,3,Somebody,took,money,,bkbf0512,1367.664399
+5,13,The light went out,sva,determiner,3,light,went,out,,bkbf0513,1097.188209
+5,14,They wanted some potatoes,svoc,pronoun,3,They,wanted,potatoes,,bkbf0514,1682.267574
+5,15,The naughty girl’s shouting,sv,determiner,3,naughty,girls,shouting,,bkbf0515,1615.238095
+5,16,The cold milk's in a jug,svoc,determiner,3,cold,milks,jug,,bkbf0516,1508.93424
+6,1,The paint dripped on the ground,svoc,determiner,3,paint,dripped,ground,,bkbf0601,1656.870748
+6,2,The mother stirs the tea,svoc,determiner,3,mother,stirs,tea,,bkbf0602,1425.21542
+6,3,They laughed at his story,svoc,pronoun,3,They,laughed,story,,bkbf0603,1495.963719
+6,4,Men wear long trousers,svoc,noun,4,Men,wear,long,trousers,bkbf0604,1699.68254
+6,5,The small boy was asleep,sv,determiner,3,small,boy,asleep,,bkbf0605,1840.907029
+6,6,The lady goes to the shop,svoc,determiner,4,lady,goes,to,shop,bkbf0606,1737.278912
+6,7,The sun melted the snow,svoc,determiner,3,sun,melted,snow,,bkbf0607,1610.929705
+6,8,The father's coming home,svoc,determiner,3,fathers,coming,home,,bkbf0608,1591.473923
+6,9,She had her pocket money,svoc,pronoun,3,She,pocket,money,,bkbf0609,1458.049887
+6,10,The lorry drove up the road,svoc,determiner,3,lorry,drove,road,,bkbf0610,1520.725624
+6,11,He’s bringing his raincoat,svoc,pronoun,3,Hes,bringing,raincoat,,bkbf0611,1694.14966
+6,12,A sharp knife's dangerous,sv,determiner,3,sharp,knifes,dangerous,,bkbf0612,1728.344671
+6,13,They took some food,svoc,pronoun,3,They,took,food,,bkbf0613,1254.104308
+6,14,The clever girls are reading,sv,determiner,3,clever,girls,reading,,bkbf0614,1523.038549
+6,15,The broom stood in the corner,svoc,determiner,3,broom,stood,corner,,bkbf0615,1518.321995
+6,16,The woman tidied her house,svoc,determiner,3,woman,tidied,house,,bkbf0616,1741.451247
+7,1,The children dropped the bag,svoc,determiner,3,children,dropped,bag,,bkbf0701,1579.138322
+7,2,The dog came back,sva,determiner,3,dog,came,back,,bkbf0702,1288.117914
+7,3,The floor looked clean,sva,determiner,3,floor,looked,clean,,bkbf0703,1392.426304
+7,4,She found her purse,svoc,pronoun,3,She,found,purse,,bkbf0704,1496.507937
+7,5,The fruit lies on the ground,svoc,determiner,3,fruit,lies,ground,,bkbf0705,1651.337868
+7,6,Mother fetches a saucepan,svoc,noun,3,Mother,fetches,saucepan,,bkbf0706,1546.1678
+7,7,They washed in cold water,svoc,pronoun,4,They,washed,cold,water,bkbf0707,1623.900227
+7,8,The young people are dancing,sv,determiner,3,young,people,dancing,,bkbf0708,1642.086168
+7,9,The bus went early,sva,determiner,3,bus,went,early,,bkbf0709,1284.399093
+7,10,They had two empty bottles,svoc,pronoun,4,They,two,empty,bottles,bkbf0710,1757.55102
+7,11,A ball's bouncing along,sva,determiner,3,balls,bouncing,along,,bkbf0711,1508.253968
+7,12,The father forgot the bread,svoc,determiner,3,father,forgot,bread,,bkbf0712,1543.219955
+7,13,The girl has a picture book,svoc,determiner,3,girl,picture,book,,bkbf0713,1435.011338
+7,14,The orange was quite sweet,sv,determiner,3,orange,quite,sweet,,bkbf0714,1505.53288
+7,15,He’s holding his nose,svoc,pronoun,3,Hes,holding,nose,,bkbf0715,1354.78458
+7,16,The new road’s on the map,svoc,determiner,3,new,roads,map,,bkbf0716,1455.873016
+8,1,The boy forgot his book,svoc,determiner,3,boy,forgot,book,,bkbf0801,1340.680272
+8,2,A friend came for lunch,svoc,determiner,3,friend,came,lunch,,bkbf0802,1551.473923
+8,3,The match boxes are empty,sv,determiner,3,match,boxes,empty,,bkbf0803,1634.104308
+8,4,He climbed his ladder,svoc,pronoun,3,He,climbed,ladder,,bkbf0804,1212.562358
+8,5,The family bought a house,svoc,determiner,3,family,bought,house,,bkbf0805,1698.367347
+8,6,The jug stood on the shelf,svoc,determiner,3,jug,stood,shelf,,bkbf0806,1574.013605
+8,7,The ball broke the window,svoc,determiner,3,ball,broke,window,,bkbf0807,1490.612245
+8,8,They’re shopping for cheese,svoc,pronoun,3,Theyre,shopping,cheese,,bkbf0808,1513.424036
+8,9,The pond water's dirty,sv,determiner,3,pond,waters,dirty,,bkbf0809,1612.970522
+8,10,They heard a funny noise,svoc,pronoun,4,They,heard,funny,noise,bkbf0810,1492.471655
+8,11,Police are clearing the road,svoc,noun,3,Police,clearing,road,,bkbf0811,1659.501134
+8,12,The bus stopped suddenly,sva,determiner,3,bus,stopped,suddenly,,bkbf0812,1465.260771
+8,13,She writes to her brother,svoc,pronoun,3,She,writes,brother,,bkbf0813,1434.603175
+8,14,The footballer lost a boot,svoc,determiner,3,footballer,lost,boot,,bkbf0814,1694.46712
+8,15,The three girls are listening,sv,determiner,3,three,girls,listening,,bkbf0815,1499.319728
+8,16,The coat lies on a chair,svoc,determiner,4,coat,lies,on,chair,bkbf0816,1501.133787
+9,1,The book tells a story,svoc,determiner,3,book,tells,story,,bkbf0901,1488.843537
+9,2,The young boy left home,svoc,determiner,4,young,boy,left,home,bkbf0902,1510.340136
+9,3,They’re climbing the tree,svoc,pronoun,3,Theyre,climbing,tree,,bkbf0903,1265.21542
+9,4,She stood near her window,svoc,pronoun,3,She,stood,window,,bkbf0904,1506.530612
+9,5,The table has three legs,svoc,determiner,3,table,three,legs,,bkbf0905,1727.981859
+9,6,A letter fell on the mat,svoc,determiner,3,letter,fell,mat,,bkbf0906,1390.204082
+9,7,The five men are working,sv,determiner,3,five,men,working,,bkbf0907,1601.269841
+9,8,He listens to his father,svoc,pronoun,4,He,listens,to,father,bkbf0908,1468.843537
+9,9,The shoes were very dirty,sv,determiner,3,shoes,very,dirty,,bkbf0909,1582.086168
+9,10,They went on holiday,svoc,pronoun,3,They,went,holiday,,bkbf0910,1248.843537
+9,11,Baby broke his mug,svoc,noun,3,Baby,broke,mug,,bkbf0911,1212.063492
+9,12,The lady packed her bag,svoc,determiner,3,lady,packed,bag,,bkbf0912,1454.285714
+9,13,The dinner plate's hot,sv,determiner,3,dinner,plates,hot,,bkbf0913,1359.455782
+9,14,The train’s moving fast,sva,determiner,3,trains,moving,fast,,bkbf0914,1654.557823
+9,15,The child drank some milk,svoc,determiner,3,child,drank,milk,,bkbf0915,1493.786848
+9,16,The car hit a wall,svoc,determiner,3,car,hit,wall,,bkbf0916,1230.068027
+10,1,A tea towel’s by the sink,svoc,determiner,3,tea,towels,sink,,bkbf1001,1526.122449
+10,2,The cleaner used a broom,svoc,determiner,3,cleaner,used,broom,,bkbf1002,1458.639456
+10,3,She looked in her mirror,svoc,pronoun,4,She,looked,in,mirror,bkbf1003,1307.210884
+10,4,The good boy's helping,sv,determiner,3,good,boys,helping,,bkbf1004,1409.024943
+10,5,They followed the path,svoc,pronoun,3,They,followed,path,,bkbf1005,1303.673469
+10,6,The kitchen clock was wrong,sv,determiner,3,kitchen,clock,wrong,,bkbf1006,1663.265306
+10,7,The dog jumped on the chair,svoc,determiner,4,dog,jumped,on,chair,bkbf1007,1575.102041
+10,8,Someone’s crossing the road,svoc,pronoun,3,Someones,crossing,road,,bkbf1008,1486.530612
+10,9,The postman brings a letter,svoc,determiner,3,postman,brings,letter,,bkbf1009,1531.337868
+10,10,They’re cycling along,sva,pronoun,3,Theyre,cycling,along,,bkbf1010,1326.213152
+10,11,He broke his leg,svoc,pronoun,3,He,broke,leg,,bkbf1011,1121.768707
+10,12,The milk was by the front door,svoc,determiner,3,milk,front,door,,bkbf1012,1683.038549
+10,13,The shirts hang in the cupboard,svoc,determiner,3,shirts,hang,cupboard,,bkbf1013,1637.732426
+10,14,The ground was too hard,sv,determiner,3,ground,too,hard,,bkbf1014,1469.886621
+10,15,The buckets hold water,svoc,determiner,3,buckets,hold,water,,bkbf1015,1496.961451
+10,16,The chicken laid some eggs,svoc,determiner,3,chicken,laid,eggs,,bkbf1016,1576.9161
+11,1,The sweet shop was empty,sv,determiner,3,sweet,shop,empty,,bkbf1101,1580.045351
+11,2,The dogs go for a walk,svoc,determiner,3,dogs,go,walk,,bkbf1102,1608.435374
+11,3,She’s washing her dress,svoc,pronoun,3,Shes,washing,dress,,bkbf1103,1562.721088
+11,4,The lady stayed for tea,svoc,determiner,3,lady,stayed,tea,,bkbf1104,1424.897959
+11,5,The driver waits by the corner,svoc,determiner,3,driver,waits,corner,,bkbf1105,1702.086168
+11,6,They finished the dinner,svoc,pronoun,3,They,finished,dinner,,bkbf1106,1247.39229
+11,7,The policeman knows the way,svoc,determiner,3,policeman,knows,way,,bkbf1107,1547.936508
+11,8,The little girl was happy,sv,determiner,3,little,girl,happy,,bkbf1108,1374.965986
+11,9,He wore his yellow shirt,svoc,pronoun,4,He,wore,yellow,shirt,bkbf1109,1715.918367
+11,10,They’re coming for Christmas,svoc,pronoun,3,Theyre,coming,Christmas,,bkbf1110,1477.641723
+11,11,The cow gave some milk,svoc,determiner,3,cow,gave,milk,,bkbf1111,1415.782313
+11,12,The boy got into bed,svoc,determiner,4,boy,got,into,bed,bkbf1112,1420.362812
+11,13,The two farmers are talking,sv,determiner,3,two,farmers,talking,,bkbf1113,1679.909297
+11,14,Mother picked some flowers,svoc,noun,3,Mother,picked,flowers,,bkbf1114,1578.412698
+11,15,A fish lay on the plate,svoc,determiner,3,fish,lay,plate,,bkbf1115,1492.244898
+11,16,The father writes a letter,svoc,determiner,3,father,writes,letter,,bkbf1116,1557.142857
+12,1,The food cost a lot,svoc,determiner,3,food,cost,lot,,bkbf1201,1315.056689
+12,2,The girl's washing her hair,svoc,determiner,3,girls,washing,hair,,bkbf1202,1464.036281
+12,3,The front garden was pretty,sv,determiner,3,front,garden,pretty,,bkbf1203,1679.455782
+12,4,He lost his hat,svoc,pronoun,3,He,lost,hat,,bkbf1204,1198.321995
+12,5,The taps are above the sink,svoc,determiner,3,taps,above,sink,,bkbf1205,1490.702948
+12,6,Father paid at the gate,svoc,noun,4,Father,paid,at,gate,bkbf1206,1540.090703
+12,7,She’s waiting for her bus,svoc,pronoun,3,Shes,waiting,bus,,bkbf1207,1630.748299
+12,8,The bread van's coming,sv,determiner,3,bread,vans,coming,,bkbf1208,1343.038549
+12,9,They had some cold meat,svoc,pronoun,3,They,cold,meat,,bkbf1209,1416.825397
+12,10,The football game's over,sv,determiner,3,football,games,over,,bkbf1210,1446.077098
+12,11,They carry some shopping bags,svoc,pronoun,4,They,carry,shopping,bags,bkbf1211,1676.281179
+12,12,The children help the milkman,svoc,determiner,3,children,help,milkman,,bkbf1212,1604.081633
+12,13,The picture came from a book,svoc,determiner,3,picture,came,book,,bkbf1213,1595.69161
+12,14,The rice pudding was ready,sv,determiner,3,rice,pudding,ready,,bkbf1214,1508.390023
+12,15,The boy had a toy dragon,svoc,determiner,3,boy,toy,dragon,,bkbf1215,1711.882086
+12,16,A tree fell on the house,svoc,determiner,3,tree,fell,house,,bkbf1216,1651.836735
+13,1,The fruit came in a box,svoc,determiner,3,fruit,came,box,,bkbf1301,1722.76644
+13,2,The husband brings some flowers,svoc,determiner,3,husband,brings,flowers,,bkbf1302,1974.603175
+13,3,They’re playing in the park,svoc,pronoun,3,Theyre,playing,park,,bkbf1303,1475.873016
+13,4,She argued with her sister,svoc,pronoun,3,She,argued,sister,,bkbf1304,1783.174603
+13,5,A man told the police,svoc,determiner,3,man,told,police,,bkbf1305,1525.260771
+13,6,Potatoes grow in the ground,svoc,noun,3,otatoes,row,ground,,bkbf1306,1701.269841
+13,7,He’s cleaning his car,svoc,pronoun,3,Hes,cleaning,car,,bkbf1307,1300.272109
+13,8,The mouse found the cheese,svoc,determiner,3,mouse,found,cheese,,bkbf1308,1534.285714
+13,9,They waited for one hour,svoc,pronoun,4,They,waited,one,hour,bkbf1309,1450.385488
+13,10,The big dog was dangerous,sv,determiner,3,big,dog,dangerous,,bkbf1310,1730.15873
+13,11,The strawberry jam was sweet,sv,determiner,3,strawberry,jam,sweet,,bkbf1311,1769.387755
+13,12,The plant hangs above the door,svoc,determiner,4,plant,hangs,above,door,bkbf1312,1614.195011
+13,13,The children are all eating,sv,determiner,3,children,all,eating,,bkbf1313,1506.031746
+13,14,The boy has black hair,svoc,determiner,3,boy,black,hair,,bkbf1314,1405.623583
+13,15,The mother heard her baby,svoc,determiner,3,mother,heard,baby,,bkbf1315,1482.811791
+13,16,The lorry climbed the hill,svoc,determiner,3,lorry,climbed,hill,,bkbf1316,1281.54195
+14,1,The angry man shouted,sv,determiner,3,angry,man,shouted,,bkbf1401,1508.571429
+14,2,The dog sleeps in a basket,svoc,determiner,3,dog,sleeps,basket,,bkbf1402,1709.070295
+14,3,They’re drinking tea,sv,pronoun,3,Theyre,drinking,tea,,bkbf1403,1198.14059
+14,4,Mother opens the drawer,svoc,noun,3,Mother,opens,drawer,,bkbf1404,1408.93424
+14,5,An old woman was at home,svoc,determiner,3,old,woman,home,,bkbf1405,1559.727891
+14,6,He dropped his money,svoc,pronoun,3,He,dropped,money,,bkbf1406,1149.931973
+14,7,They broke all the eggs,svoc,pronoun,4,They,broke,all,eggs,bkbf1407,1386.938776
+14,8,The kitchen window was clean,sv,determiner,3,kitchen,window,clean,,bkbf1408,1797.913832
+14,9,The girl plays with the baby,svoc,determiner,3,girl,plays,baby,,bkbf1409,1593.786848
+14,10,The big fish got away,sva,determiner,4,big,fish,got,away,bkbf1410,1550.521542
+14,11,She’s helping her friend,svoc,pronoun,3,Shes,helping,friend,,bkbf1411,1498.594104
+14,12,The children washed the plates,svoc,determiner,3,children,washed,plates,,bkbf1412,1821.405896
+14,13,The postman comes early,sva,determiner,3,postman,comes,early,,bkbf1413,1557.732426
+14,14,The sign showed the way,svoc,determiner,3,sign,showed,way,,bkbf1414,1426.394558
+14,15,The grass is getting long,sva,determiner,3,grass,getting,long,,bkbf1415,1452.108844
+14,16,The match fell on the floor,svoc,determiner,3,match,fell,floor,,bkbf1416,1330.068027
+15,1,A man’s turning the tap,svoc,determiner,3,mans,turning,tap,,bkbf1501,1408.571429
+15,2,The fire was very hot,sv,determiner,3,fire,very,hot,,bkbf1502,1464.263039
+15,3,He’s sucking his thumb,svoc,pronoun,3,Hes,sucking,thumb,,bkbf1503,1250.612245
+15,4,The shop closed for lunch,svoc,determiner,3,shop,closed,lunch,,bkbf1504,1609.52381
+15,5,The driver starts the engine,svoc,determiner,3,driver,starts,engine,,bkbf1505,1717.913832
+15,6,The boy hurried to school,svoc,determiner,3,boy,hurried,school,,bkbf1506,1486.258503
+15,7,Some nice people are coming,sv,determiner,3,nice,people,coming,,bkbf1507,1474.739229
+15,8,She bumped her head,svoc,pronoun,3,She,bumped,head,,bkbf1508,1182.539683
+15,9,They met some friends,svoc,pronoun,4,They,met,some,friends,bkbf1509,1300.997732
+15,10,Flowers grow in the garden,svoc,noun,3,Flowers,grow,garden,,bkbf1510,1543.310658
+15,11,The tiny baby was pretty,sv,determiner,3,tiny,baby,pretty,,bkbf1511,1676.643991
+15,12,The daughter laid the table,svoc,determiner,3,daughter,laid,table,,bkbf1512,1602.76644
+15,13,They walked across the grass,svoc,pronoun,4,They,walked,across,grass,bkbf1513,1649.614512
+15,14,The mother tied the string,svoc,determiner,3,mother,tied,string,,bkbf1514,1459.002268
+15,15,The train stops at the station,svoc,determiner,3,train,stops,station,,bkbf1515,1792.562358
+15,16,The puppy plays with a ball,svoc,determiner,3,puppy,plays,ball,,bkbf1516,1545.034014
+16,1,The children wave at the train,svoc,determiner,3,children,wave,train,,bkbf1601,1709.433107
+16,2,Mother cut the Christmas cake,svoc,noun,4,Mother,cut,Christmas,cake,bkbf1602,1538.004535
+16,3,He closed his eyes,svoc,pronoun,3,He,closed,eyes,,bkbf1603,1352.426304
+16,4,The raincoat's very wet,sv,determiner,3,raincoats,very,wet,,bkbf1604,1524.580499
+16,5,A lady buys some butter,svoc,determiner,3,lady,buys,butter,,bkbf1605,1583.446712
+16,6,They called an ambulance,svoc,pronoun,3,They,called,ambulance,,bkbf1606,1451.972789
+16,7,She’s paying for her bread,svoc,pronoun,3,Shes,paying,bread,,bkbf1607,1565.668934
+16,8,The policeman found a dog,svoc,determiner,3,policeman,found,dog,,bkbf1608,1506.575964
+16,9,Some men shave in the morning,svoc,determiner,3,men,shave,morning,,bkbf1609,1685.759637
+16,10,The driver lost his way,svoc,determiner,3,driver,lost,way,,bkbf1610,1554.104308
+16,11,They stared at the picture,svoc,pronoun,3,They,stared,picture,,bkbf1611,1442.811791
+16,12,The cat drank from a saucer,svoc,determiner,3,cat,drank,saucer,,bkbf1612,1737.142857
+16,13,The oven door was open,sv,determiner,3,oven,door,open,,bkbf1613,1386.485261
+16,14,The cars going too fast,sva,determiner,4,cars,going,too,fast,bkbf1614,1783.900227
+16,15,The silly boy's hiding,sv,determiner,3,silly,boys,hiding,,bkbf1615,1467.301587
+16,16,The painter used a brush,svoc,determiner,3,painter,used,brush,,bkbf1616,1552.879819
+17,1,The apple pie's cooking,sv,determiner,3,apple,pies,cooking,,bkbf1701,1501.315193
+17,2,He drinks from his mug,svoc,pronoun,3,He,drinks,mug,,bkbf1702,1293.650794
+17,3,The sky was very blue,sv,determiner,3,sky,very,blue,,bkbf1703,1531.564626
+17,4,They knocked on the window,svoc,pronoun,3,They,knocked,window,,bkbf1704,1354.78458
+17,5,The big boy kicked the ball,svoc,determiner,4,big,boy,kicked,ball,bkbf1705,1468.707483
+17,6,People are going home,svoc,noun,3,People,going,home,,bkbf1706,1282.131519
+17,7,The baby wants his bottle,svoc,determiner,3,baby,wants,bottle,,bkbf1707,1450.793651
+17,8,The lady sat on her chair,svoc,determiner,3,lady,sat,chair,,bkbf1708,1629.024943
+17,9,They had some jam pudding,svoc,pronoun,3,They,jam,pudding,,bkbf1709,1491.156463
+17,10,The scissors are quite sharp,sv,determiner,3,scissors,quite,sharp,,bkbf1710,1379.410431
+17,11,She’s calling her daughter,svoc,pronoun,3,Shes,calling,daughter,,bkbf1711,1436.00907
+17,12,Some brown leaves fell off the tree,svoc,determiner,4,brown,leaves,fell,tree,bkbf1712,1916.598639
+17,13,The milkman carried the cream,svoc,determiner,3,milkman,carried,cream,,bkbf1713,1759.455782
+17,14,A girl ran along,sva,determiner,3,girl,ran,along,,bkbf1714,1246.077098
+17,15,The mother reads a paper,svoc,determiner,3,mother,reads,paper,,bkbf1715,1332.199546
+17,16,The dog chased the cat,svoc,determiner,3,dog,chased,cat,,bkbf1716,1393.8322
+18,1,The cake shop's opening,sv,determiner,3,cake,shops,opening,,bkbf1801,1411.292517
+18,2,They like orange marmalade,svoc,pronoun,4,They,like,orange,marmalade,bkbf1802,1571.564626
+18,3,The mother shut the window,svoc,determiner,3,mother,shut,window,,bkbf1803,1351.791383
+18,4,He’s skating with his friend,svoc,pronoun,4,Hes,skating,with,friend,bkbf1804,1567.120181
+18,5,The cheese pie was good,sv,determiner,3,cheese,pie,good,,bkbf1805,1523.99093
+18,6,Rain falls from clouds,svoc,noun,3,Rain,falls,clouds,,bkbf1806,1660
+18,7,She talked to her doll,svoc,pronoun,3,She,talked,doll,,bkbf1807,1371.882086
+18,8,They painted the wall,svoc,pronoun,3,They,painted,wall,,bkbf1808,1263.0839
+18,9,The towel dropped on the floor,svoc,determiner,3,towel,dropped,floor,,bkbf1809,1525.85034
+18,10,The dog's eating some meat,svoc,determiner,3,dogs,eating,meat,,bkbf1810,1523.219955
+18,11,A boy broke the fence,svoc,determiner,3,boy,broke,fence,,bkbf1811,1604.943311
+18,12,The yellow pears were lovely,sv,determiner,3,yellow,pears,lovely,,bkbf1812,1564.217687
+18,13,The police help the driver,svoc,determiner,3,police,help,driver,,bkbf1813,1504.988662
+18,14,The snow lay on the roof,svoc,determiner,3,snow,lay,roof,,bkbf1814,1432.244898
+18,15,The lady washed the shirt,svoc,determiner,3,lady,washed,shirt,,bkbf1815,1664.761905
+18,16,The cup hangs on a hook,svoc,determiner,3,cup,hangs,hook,,bkbf1816,1489.52381
+19,1,The family like fish,svoc,determiner,3,family,like,fish,,bkbf1901,1658.45805
+19,2,Sugar's very sweet,sv,noun,3,Sugars,very,sweet,,bkbf1902,1440.952381
+19,3,The baby lay on a rug,svoc,determiner,3,baby,lay,rug,,bkbf1903,1438.77551
+19,4,The washing machine broke,sv,determiner,3,washing,machine,broke,,bkbf1904,1547.981859
+19,5,They’re clearing the table,svoc,pronoun,3,Theyre,clearing,table,,bkbf1905,1404.988662
+19,6,The cleaner swept the floor,svoc,determiner,3,cleaner,swept,floor,,bkbf1906,1551.337868
+19,7,A grocer sells butter,svoc,determiner,3,grocer,sells,butter,,bkbf1907,1583.310658
+19,8,The bath water was warm,sv,determiner,3,bath,water,warm,,bkbf1908,1597.823129
+19,9,He’s reaching for his spoon,svoc,pronoun,3,Hes,reaching,spoon,,bkbf1909,1578.730159
+19,10,She hurt her hand,svoc,pronoun,3,She,hurt,hand,,bkbf1910,1392.108844
+19,11,The milkman drives a small van,svoc,determiner,4,milkman,drives,small,van,bkbf1911,1925.034014
+19,12,The boy slipped on the stairs,svoc,determiner,4,boy,slipped,on,stairs,bkbf1912,1853.378685
+19,13,They’re staying for supper,svoc,pronoun,3,Theyre,staying,supper,,bkbf1913,1318.14059
+19,14,The girl held a mirror,svoc,determiner,3,girl,held,mirror,,bkbf1914,1359.773243
+19,15,The cup stood on a saucer,svoc,determiner,3,cup,stood,saucer,,bkbf1915,1598.548753
+19,16,The cows went to market,svoc,determiner,3,cows,went,market,,bkbf1916,1603.401361
+20,1,The boy got into trouble,svoc,determiner,3,boy,got,trouble,,bkbf2001,1502.176871
+20,2,They’re going out,sva,pronoun,3,Theyre,going,out,,bkbf2002,1026.575964
+20,3,The football hit the goalpost,svoc,determiner,3,football,hit,goalpost,,bkbf2003,1721.043084
+20,4,He paid his bill,svoc,pronoun,3,He,paid,bill,,bkbf2004,1161.723356
+20,5,The teacloth's quite wet,sv,determiner,3,teacloths,quite,wet,,bkbf2005,1656.00907
+20,6,A cat jumped off the fence,svoc,determiner,4,cat,jumped,off,fence,bkbf2006,1768.163265
+20,7,The baby has blue eyes,svoc,determiner,3,baby,blue,eyes,,bkbf2007,1654.104308
+20,8,They sat on a wooden bench,svoc,pronoun,4,They,sat,wooden,bench,bkbf2008,1707.120181
+20,9,Mother made some curtains,svoc,noun,3,Mother,made,curtains,,bkbf2009,1521.269841
+20,10,The oven's too hot,sv,determiner,3,ovens,too,hot,,bkbf2010,1289.251701
+20,11,The girl caught a cold,svoc,determiner,3,girl,caught,cold,,bkbf2011,1471.70068
+20,12,The raincoat's hanging up,sva,determiner,3,raincoats,hanging,up,,bkbf2012,1516.281179
+20,13,She brushed her hair,svoc,pronoun,3,She,brushed,hair,,bkbf2013,1130.884354
+20,14,The two children are laughing,sv,determiner,3,two,children,laughing,,bkbf2014,1717.097506
+20,15,The man tied his scarf,svoc,determiner,3,man,tied,scarf,,bkbf2015,1565.487528
+20,16,The flower stands in a pot,svoc,determiner,3,flower,stands,pot,,bkbf2016,1609.52381
+21,1,The pepper pot was empty,sv,determiner,3,pepper,pot,empty,,bkbf2101,1509.705215
+21,2,The dog drank from a bowl,svoc,determiner,3,dog,drank,bowl,,bkbf2102,1550.839002
+21,3,A girl came into the room,svoc,determiner,3,girl,came,room,,bkbf2103,1525.941043
+21,4,They’re pushing an old car,svoc,pronoun,4,Theyre,pushing,old,car,bkbf2104,1493.968254
+21,5,The cat caught a mouse,svoc,determiner,3,cat,caught,mouse,,bkbf2105,1610.657596
+21,6,The road goes up a hill,svoc,determiner,4,road,goes,up,hill,bkbf2106,1338.14059
+21,7,She made her bed,svoc,pronoun,3,She,made,bed,,bkbf2107,1200.136054
+21,8,Bananas are yellow fruit,svoc,noun,3,Bananas,yellow,fruit,,bkbf2108,1794.920635
+21,9,The cow lies on the grass,svoc,determiner,3,cow,lies,grass,,bkbf2109,1737.913832
+21,10,The egg cups are on the table,svoc,determiner,3,egg,cups,table,,bkbf2110,1642.312925
+21,11,He frightened his sister,svoc,pronoun,3,He,frightened,sister,,bkbf2111,1448.843537
+21,12,The cricket team's playing,sv,determiner,3,cricket,teams,playing,,bkbf2112,1528.979592
+21,13,The father picked some pears,svoc,determiner,3,father,picked,pears,,bkbf2113,1689.569161
+21,14,The kettle boiled quickly,sva,determiner,3,kettle,boiled,quickly,,bkbf2114,1576.054422
+21,15,The man’s painting a sign,svoc,determiner,3,mans,painting,sign,,bkbf2115,1498.594104
+21,16,They lost some money,svoc,pronoun,3,They,lost,money,,bkbf2116,1027.210884

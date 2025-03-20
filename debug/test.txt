@@ -1,0 +1,38 @@
+%% Reorder the speech stimuli (so that sentences are unique per run in the pre-train and main phases)
+
+sp_prenmain_sentence = sp_prenmain{1,2}(:,1);
+
+idx_prenmain_reord = randperm(length(sp_prenmain_sentence));
+sp_prenmain_sentence_n = sp_prenmain_sentence(idx_prenmain_reord);
+
+%%% Check the pre-train phase
+while length(unique(sp_prenmain_sentence_n(1:ExpInfo.TrialperCondition*ExpInfo.NumConditions*ExpInfo.RepCondPretrain)))~=...
+        length(sp_prenmain_sentence_n(1:ExpInfo.TrialperCondition*ExpInfo.NumConditions*ExpInfo.RepCondPretrain))
+    idx_prenmain_reord = randperm(length(sp_prenmain_sentence));
+    sp_prenmain_sentence_n = sp_prenmain_sentence(idx_prenmain_reord);
+end
+
+%%% Check the main phase
+
+sp_main_run_unicount = [];
+
+idxInitMain = ExpInfo.numPretrain+1;
+
+while sum(sp_main_run_unicount)~=48*8 % change the number here too
+    
+    idx_prenmain_reord(idxInitMain:length(sp_prenmain_sentence)) = Shuffle(idx_prenmain_reord(idxInitMain:length(sp_prenmain_sentence)));
+    sp_prenmain_sentence_n(idxInitMain:length(sp_prenmain_sentence_n))...
+        = sp_prenmain_sentence(idx_prenmain_reord(idxInitMain:length(sp_prenmain_sentence)));
+    
+    sp_main_sentence_reshape = reshape(sp_prenmain_sentence_n(idxInitMain:length(sp_prenmain_sentence_n)),...
+        ExpInfo.TrialperCondition*ExpInfo.NumConditions*ExpInfo.RepCondMain,ExpInfo.RepRunMain);
+    
+    for iRun = 1:8 % change '8' to variables
+      sp_main_run_unicount(iRun,1) = length(unique(sp_main_sentence_reshape(:,iRun)));
+    end
+
+end
+    
+for iRun = 1:8 % change '8' to variables
+    sp_main_run_unicount(iRun,1) = length(unique(sp_main_sentence_reshape(:,iRun)));
+end

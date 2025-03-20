@@ -1,0 +1,461 @@
+Participant,Sequence,Session,Run,Block,Sentence,SpContent,Keyword1,Keyword2,Keyword3,Keyword4,AudDur,AudFile,Orientation,TargetPresence,GaborLoc,TD
+HW220920,1,pretrain,1,3,bkbg1011,He broke his leg,He,broke,leg,NA,981.3333333,bkbg1011_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,2,pretrain,1,3,bkbg1105,The driver waits by the corner,driver,waits,corner,NA,1621.333333,bkbg1105_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,3,pretrain,1,3,bkbg1101,The sweet shop was empty,sweet,shop,empty,NA,1418.666667,bkbg1101_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,4,pretrain,1,3,aslg1112,The clothes are covered in mud,clothes,covered,mud,NA,1742.583333,aslg1112_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,5,pretrain,1,3,aslg1806,They're living by the sea,Theyre,living,sea,NA,1674.666667,aslg1806_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,6,pretrain,1,3,bkbg0514,They wanted some potatoes,They,wanted,potatoes,NA,1621.333333,bkbg0514_4ch.wav,NaN,NaN,NaN,NaN
+HW220920,7,pretrain,1,1,bkbg0502,The matches lie on the shelf,matches,lie,shelf,NA,1749.333333,bkbg0502_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,8,pretrain,1,1,bkbg0408,Lemons grow on trees,Lemons,grow,trees,NA,1653.333333,bkbg0408_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,9,pretrain,1,1,aslg1814,The floor was quite slippery,floor,quite,slippery,NA,1568,aslg1814_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,10,pretrain,1,1,bkbg2006,A cat jumped off the fence,cat,jumped,off,fence,1770.666667,bkbg2006_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,11,pretrain,1,1,bkbg1210,The football game's over,football,games,over,NA,1376,bkbg1210_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,12,pretrain,1,1,aslg0205,The salt cellar's full,salt,cellars,full,NA,1312,aslg0205_8ch.wav,NaN,NaN,NaN,NaN
+HW220920,13,pretrain,2,1,aslg1615,She's holding a brush,Shes,holding,brush,NA,1194.666667,aslg1615_8ch.wav,-0.119799775110364,0,0.0120884866464309,-0.905197938507812
+HW220920,14,pretrain,2,1,aslg1505,The family ate supper,family,ate,supper,NA,1605.333333,aslg1505_8ch.wav,0.785398163397448,1,-1.05928577335629,0
+HW220920,15,pretrain,2,1,aslg1108,The greedy boy was hungry,greedy,boy,hungry,NA,1845.333333,aslg1108_8ch.wav,1.63136521378896,0,-1.80777240479293,0.845967050391508
+HW220920,16,pretrain,2,1,bkbg1007,The dog jumped on the chair,dog,jumped,on,chair,1568,bkbg1007_8ch.wav,0.785398163397448,1,-0.685203938557679,0
+HW220920,17,pretrain,2,3,aslg0314,The man climbed the mountain,man,climbed,mountain,NA,1598.416667,aslg0314_4ch.wav,0.785398163397448,1,0.29502505401937,0
+HW220920,18,pretrain,2,3,bkbg0313,Father looked at the book,Father,looked,book,NA,1536,bkbg0313_4ch.wav,-0.172521629997458,0,-0.0723711704624291,-0.957919793394907
+HW220920,19,pretrain,2,3,bkbg1916,The cows went to market,cows,went,market,NA,1674.666667,bkbg1916_4ch.wav,0.785398163397448,1,1.5303157744642,0
+HW220920,20,pretrain,2,3,aslg1010,He's wearing a tie,Hes,wearing,tie,NA,1578.166667,aslg1010_4ch.wav,-0.163190955737834,0,-1.0569656792099,-0.948589119135282
+HW220920,21,pretrain,2,2,aslg0912,The lady has a fur coat,lady,fur,coat,NA,1653.333333,aslg0912_8ch.wav,0.785398163397448,1,1.59856186832333,0
+HW220920,22,pretrain,2,2,bkbg1506,The boy hurried to school,boy,hurried,school,NA,1600,bkbg1506_8ch.wav,1.01537002317882,0,0.642779828277271,0.229971859781371
+HW220920,23,pretrain,2,2,bkbg0513,The light went out,light,went,out,NA,1546.666667,bkbg0513_8ch.wav,0.785398163397448,1,1.34027387695127,0
+HW220920,24,pretrain,2,2,aslg0408,The gardener trimmed the hedge,gardener,trimmed,hedge,NA,1578.666667,aslg0408_8ch.wav,0.99513087312307,0,1.62666232464184,0.209732709725621
+HW220920,25,pretrain,2,4,aslg0307,The new shoes were tight,new,shoes,tight,NA,1941.333333,aslg0307_4ch.wav,0.539955460113494,0,2.9807210382031,-0.245442703283954
+HW220920,26,pretrain,2,4,bkbg0701,The children dropped the bag,children,dropped,bag,NA,1728,bkbg0701_4ch.wav,0.785398163397448,1,0.998477754607102,0
+HW220920,27,pretrain,2,4,aslg0915,The boy told a joke,boy,told,joke,NA,1322.666667,aslg0915_4ch.wav,0.785398163397448,1,-1.42425953223941,0
+HW220920,28,pretrain,2,4,bkbg1703,The sky was very blue,sky,very,blue,NA,1589.333333,bkbg1703_4ch.wav,0.481859795170557,0,2.67459337912731,-0.303538368226892
+HW220920,29,main,3,1,bkbg0803,The match boxes are empty,match,boxes,empty,NA,1504,bkbg0803_8ch.wav,0.785398163397448,1,0.470007119575985,0
+HW220920,30,main,3,1,aslg1212,The children carried the suitcase,children,carried,suitcase,NA,1939.3125,aslg1212_8ch.wav,0.785398163397448,1,1.360420336896,0
+HW220920,31,main,3,1,bkbg0616,The woman tidied her house,woman,tidied,house,NA,1845.333333,bkbg0616_8ch.wav,-0.0858094598928636,0,-2.95043221085875,-0.871207623290312
+HW220920,32,main,3,1,aslg1015,The man drew with a pencil,man,drew,pencil,NA,1754.8125,aslg1015_8ch.wav,0.785398163397448,1,-2.56082807947448,0
+HW220920,33,main,3,3,bkbg1415,The grass is getting long,grass,getting,long,NA,1600,bkbg1415_4ch.wav,1.64859863922886,0,-1.99423835521845,0.863200475831409
+HW220920,34,main,3,3,aslg0704,He slid on the floor,He,slid,floor,NA,1472,aslg0704_4ch.wav,-0.155789293175112,0,2.92208056478467,-0.941187456572561
+HW220920,35,main,3,3,bkbg0308,He needed his holiday,He,needed,holiday,NA,1429.333333,bkbg0308_4ch.wav,0.785398163397448,1,2.35662471762406,0
+HW220920,36,main,3,3,bkbg0301,The glass bowl broke,glass,bowl,broke,NA,1621.333333,bkbg0301_4ch.wav,1.83253777255669,0,-1.39467679943289,1.04713960915925
+HW220920,37,main,3,4,aslg1410,The sun came out,sun,came,out,NA,1184,aslg1410_4ch.wav,0.785398163397448,1,0.574127484835825,0
+HW220920,38,main,3,4,aslg0712,The back door was shut,back,door,shut,NA,1290.666667,aslg0712_4ch.wav,0.613953191808512,0,-1.67120139742574,-0.171444971588936
+HW220920,39,main,3,4,aslg0101,They moved the furniture,They,moved,furniture,NA,1440,aslg0101_4ch.wav,0.785398163397448,1,1.9173551974131,0
+HW220920,40,main,3,4,bkbg2112,The cricket team's playing,cricket,teams,playing,NA,1600,bkbg2112_4ch.wav,0.785398163397448,1,-0.692938784017239,0
+HW220920,41,main,3,2,aslg1701,The man climbed the ladder,man,climbed,ladder,NA,1621.333333,aslg1701_8ch.wav,0.930271040976986,0,2.51104057241571,0.144872877579538
+HW220920,42,main,3,2,aslg1411,He's starting the engine,Hes,starting,engine,NA,1440,aslg1411_8ch.wav,0.785398163397448,1,0.792342268444822,0
+HW220920,43,main,3,2,aslg1210,The children heard the doorbell,children,heard,doorbell,NA,1638.916667,aslg1210_8ch.wav,0.569330398163058,0,-1.10874700813651,-0.216067765234391
+HW220920,44,main,3,2,aslg0606,The husband cleaned the car,husband,cleaned,car,NA,1546.666667,aslg0606_8ch.wav,0.949459659343572,0,0.294928434370738,0.164061495946123
+HW220920,45,main,4,4,bkbg1216,A tree fell on the house,tree,fell,house,NA,1610.666667,bkbg1216_4ch.wav,0.785398163397448,1,-0.116212777948667,0
+HW220920,46,main,4,4,bkbg0202,They had a lovely day,They,lovely,day,NA,1301.333333,bkbg0202_4ch.wav,1.0080108243577,0,2.88480314590455,0.22261266096025
+HW220920,47,main,4,4,aslg1202,The tall man was thin,tall,man,thin,NA,1845.333333,aslg1202_4ch.wav,0.785398163397448,1,1.30579203395326,0
+HW220920,48,main,4,4,bkbg0104,Children like strawberries,Children,like,strawberries,NA,1642.666667,bkbg0104_4ch.wav,1.08141974481669,0,1.06466729454151,0.296021581419239
+HW220920,49,main,4,4,bkbg0716,The new road’s on the map,new,roads,map,NA,1568,bkbg0716_4ch.wav,0.785398163397448,1,0.25834409170572,0
+HW220920,50,main,4,4,bkbg0910,They went on holiday,They,went,holiday,NA,1269.333333,bkbg0910_4ch.wav,0.944813184621928,0,-0.830914079529863,0.15941502122448
+HW220920,51,main,4,3,aslg0514,The man goes to the bank,man,goes,bank,NA,1749.333333,aslg0514_4ch.wav,1.69866614475893,0,0.303552784409362,0.913267981361479
+HW220920,52,main,4,3,bkbg1907,A grocer sells butter,grocer,sells,butter,NA,1461.333333,bkbg1907_4ch.wav,0.785398163397448,1,-0.0490934307752974,0
+HW220920,53,main,4,3,aslg0104,The yellow leaves are falling,yellow,leaves,falling,NA,1760,aslg0104_4ch.wav,0.785398163397448,1,-1.32709419772906,0
+HW220920,54,main,4,3,aslg0615,They're waving at the train,Theyre,waving,train,NA,1514.666667,aslg0615_4ch.wav,-0.115926742115808,0,0.577574279001015,-0.901324905513257
+HW220920,55,main,4,3,bkbg0609,She had her pocket money,She,pocket,money,NA,1418.666667,bkbg0609_4ch.wav,1.69817687757714,0,-0.491471933204188,0.912778714179693
+HW220920,56,main,4,3,aslg1206,The lady spoke to the driver,lady,spoke,driver,NA,1724.479167,aslg1206_4ch.wav,0.785398163397448,1,1.71348124265613,0
+HW220920,57,main,4,2,bkbg1611,They stared at the picture,They,stared,picture,NA,1333.333333,bkbg1611_8ch.wav,0.785398163397448,1,2.14126907598699,0
+HW220920,58,main,4,2,bkbg1814,The snow lay on the roof,snow,lay,roof,NA,1696,bkbg1814_8ch.wav,0.929604614815309,0,0.935397103505884,0.14420645141786
+HW220920,59,main,4,2,bkbg1116,The father writes a letter,father,writes,letter,NA,1418.666667,bkbg1116_8ch.wav,0.785398163397448,1,1.18894789013768,0
+HW220920,60,main,4,2,bkbg2012,The raincoat's hanging up,raincoats,hanging,up,NA,1610.666667,bkbg2012_8ch.wav,0.987209080324088,0,-2.05909902570838,0.20181091692664
+HW220920,61,main,4,2,aslg1601,They did their homework,They,did,homework,NA,1098.666667,aslg1601_8ch.wav,0.785398163397448,1,-0.377241823854452,0
+HW220920,62,main,4,2,bkbg1503,He’s sucking his thumb,Hes,sucking,thumb,NA,1280,bkbg1503_8ch.wav,1.01087143857347,0,2.33640761709133,0.22547327517602
+HW220920,63,main,4,1,aslg0207,The mother shook her head,mother,shook,head,NA,1589.333333,aslg0207_8ch.wav,0.785398163397448,1,0.0141544648812759,0
+HW220920,64,main,4,1,aslg1307,The pears were too hard,pears,too,hard,NA,1450.666667,aslg1307_8ch.wav,1.71494460048689,0,-2.91793917324166,0.929546437089445
+HW220920,65,main,4,1,aslg0115,The neighbour knocked at the door,neighbour,knocked,door,NA,1728,aslg0115_8ch.wav,0.785398163397448,1,-2.76655791770771,0
+HW220920,66,main,4,1,bkbg2109,The cow lies on the grass,cow,lies,grass,NA,1920,bkbg2109_8ch.wav,-0.142487370432606,0,-2.93514051326259,-0.927885533830054
+HW220920,67,main,4,1,aslg1315,The boy ate his lunch,boy,ate,lunch,NA,1962.666667,aslg1315_8ch.wav,-0.174355569712856,0,-2.09550876517566,-0.959753733110304
+HW220920,68,main,4,1,aslg0315,The lady hurt her arm,lady,hurt,arm,NA,1609.291667,aslg0315_8ch.wav,0.785398163397448,1,-0.131702560771836,0
+HW220920,69,main,4,3,aslg1804,The daughter drank some lemonade,daughter,drank,lemonade,NA,1793.625,aslg1804_4ch.wav,0.785398163397448,1,-0.619972193071749,0
+HW220920,70,main,4,3,bkbg0905,The table has three legs,table,three,legs,NA,1760,bkbg0905_4ch.wav,-0.181166417842243,0,-2.31992131533159,-0.966564581239692
+HW220920,71,main,4,3,bkbg1701,The apple pie's cooking,apple,pies,cooking,NA,1504,bkbg1701_4ch.wav,-0.105841530295113,0,1.57018882251129,-0.891239693692561
+HW220920,72,main,4,3,bkbg1804,He’s skating with his friend,Hes,skating,with,friend,1664,bkbg1804_4ch.wav,0.785398163397448,1,-1.93969607164269,0
+HW220920,73,main,4,3,bkbg0311,They ate the lemon jelly,They,ate,lemon,jelly,1504,bkbg0311_4ch.wav,0.785398163397448,1,1.10159422571893,0
+HW220920,74,main,4,3,aslg0913,The cat jumped onto the table,cat,jumped,table,NA,1696,aslg0913_4ch.wav,1.74003851140259,0,0.408377809588801,0.954640348005146
+HW220920,75,main,4,1,bkbg1711,She’s calling her daughter,Shes,calling,daughter,NA,1344,bkbg1711_8ch.wav,0.785398163397448,1,-2.93796775747478,0
+HW220920,76,main,4,1,bkbg1715,The mother reads a paper,mother,reads,paper,NA,1386.666667,bkbg1715_8ch.wav,-0.164847566493863,0,-3.1361805574879,-0.950245729891312
+HW220920,77,main,4,1,bkbg1413,The postman comes early,postman,comes,early,NA,1568,bkbg1413_8ch.wav,-0.0776340124205623,0,1.96293655237708,-0.863032175818011
+HW220920,78,main,4,1,bkbg0214,The little baby sleeps,little,baby,sleeps,NA,1610.666667,bkbg0214_8ch.wav,0.785398163397448,1,-2.53804771940895,0
+HW220920,79,main,4,1,aslg1406,The policeman stopped the traffic,policeman,stopped,traffic,NA,1653.333333,aslg1406_8ch.wav,1.7574150771184,0,-2.30179581578726,0.97201691372095
+HW220920,80,main,4,1,bkbg0110,They’re looking at the clock,Theyre,looking,at,clock,1365.333333,bkbg0110_8ch.wav,1.7818691306295,0,2.79223171060869,0.996470967232054
+HW220920,81,main,4,4,bkbg0706,Mother fetches a saucepan,Mother,fetches,saucepan,NA,1642.666667,bkbg0706_4ch.wav,0.785398163397448,1,-0.144468899627111,0
+HW220920,82,main,4,4,bkbg1906,The cleaner swept the floor,cleaner,swept,floor,NA,1632,bkbg1906_4ch.wav,0.471388988444058,0,1.93187635868415,-0.31400917495339
+HW220920,83,main,4,4,aslg1810,The blue towel was damp,blue,towel,damp,NA,1621.333333,aslg1810_4ch.wav,0.785398163397448,1,-1.32895234921866,0
+HW220920,84,main,4,4,bkbg0102,The car engine's running,car,engines,running,NA,1546.666667,bkbg0102_4ch.wav,0.628151466841377,0,-2.29759675729577,-0.157246696556071
+HW220920,85,main,4,4,aslg0906,The man shaved with a razor,man,shaved,razor,NA,1834.666667,aslg0906_4ch.wav,0.785398163397448,1,0.219186753366487,0
+HW220920,86,main,4,4,aslg1014,The bus stopped at the shops,bus,stopped,shops,NA,1685.333333,aslg1014_4ch.wav,0.785398163397448,1,1.35287968853617,0
+HW220920,87,main,4,2,aslg0412,The baker iced the cake,baker,iced,cake,NA,1568,aslg0412_8ch.wav,0.551987186717939,0,-1.13792308935938,-0.233410976679509
+HW220920,88,main,4,2,aslg1214,The traffic lights are green,traffic,lights,green,NA,1974.666667,aslg1214_8ch.wav,1.00070769265388,0,1.37284471229548,0.215309529256436
+HW220920,89,main,4,2,bkbg1103,She’s washing her dress,Shes,washing,dress,NA,1376,bkbg1103_8ch.wav,0.785398163397448,1,2.85172715935324,0
+HW220920,90,main,4,2,bkbg0904,She stood near her window,She,stood,window,NA,1653.333333,bkbg0904_8ch.wav,0.785398163397448,1,2.18852052128672,0
+HW220920,91,main,4,2,bkbg1307,He’s cleaning his car,Hes,cleaning,car,NA,1269.333333,bkbg1307_8ch.wav,0.537850390142809,0,2.49954247225884,-0.247547773254639
+HW220920,92,main,4,2,bkbg1801,The cake shop's opening,cake,shops,opening,NA,1376,bkbg1801_8ch.wav,0.785398163397448,1,-1.34249357384471,0
+HW220920,93,main,5,3,bkbg1911,The milkman drives a small van,milkman,drives,small,van,1961.020833,bkbg1911_4ch.wav,0.785398163397448,1,2.90285183526832,0
+HW220920,94,main,5,3,bkbg1713,The milkman carried the cream,milkman,carried,cream,NA,1802.666667,bkbg1713_4ch.wav,1.74752716071666,0,-2.02121099657595,0.962128997319212
+HW220920,95,main,5,3,aslg0110,The room has a lovely view,room,lovely,view,NA,1696,aslg0110_4ch.wav,-0.199279249884034,0,-1.03696179450355,-0.984677413281483
+HW220920,96,main,5,3,aslg1309,She tore her dress,She,tore,dress,NA,1365.333333,aslg1309_4ch.wav,0.785398163397448,1,-0.529117135468427,0
+HW220920,97,main,5,3,aslg1403,The lorry drove up the hill,lorry,drove,hill,NA,1461.333333,aslg1403_4ch.wav,1.73012260680851,0,2.18312146024389,0.944724443411058
+HW220920,98,main,5,3,bkbg1013,The shirts hang in the cupboard,shirts,hang,cupboard,NA,1568,bkbg1013_4ch.wav,0.785398163397448,1,-1.2297942424309,0
+HW220920,99,main,5,1,bkbg1207,She’s waiting for her bus,Shes,waiting,bus,NA,1450.666667,bkbg1207_8ch.wav,0.785398163397448,1,2.0191624729326,0
+HW220920,100,main,5,1,bkbg0414,The cooks making a cake,cooks,making,cake,NA,1642.666667,bkbg0414_8ch.wav,-0.176252797205652,0,-2.0294608213312,-0.961650960603101
+HW220920,101,main,5,1,aslg1007,The little car was slow,little,car,slow,NA,1856,aslg1007_8ch.wav,0.785398163397448,1,-2.73753858982345,0
+HW220920,102,main,5,1,aslg0803,The puppy licked his master,puppy,licked,master,NA,1653.333333,aslg0803_8ch.wav,1.69355178079312,0,0.200482577259966,0.908153617395671
+HW220920,103,main,5,1,aslg0905,The woman called a doctor,woman,called,doctor,NA,1664,aslg0905_8ch.wav,-0.175111637652243,0,-1.70455139156754,-0.960509801049691
+HW220920,104,main,5,1,bkbg0906,A letter fell on the mat,letter,fell,mat,NA,1685.333333,bkbg0906_8ch.wav,0.785398163397448,1,1.06830123002928,0
+HW220920,105,main,5,4,bkbg0511,He’s washing his face,Hes,washing,face,NA,1696,bkbg0511_4ch.wav,0.785398163397448,1,-2.83368032460114,0
+HW220920,106,main,5,4,aslg1209,The red ball's bouncing,red,balls,bouncing,NA,1578.666667,aslg1209_4ch.wav,1.01382008621428,0,-0.66462259178053,0.228421922816836
+HW220920,107,main,5,4,bkbg2104,They’re pushing an old car,Theyre,pushing,old,car,1578.666667,bkbg2104_4ch.wav,0.563864063223353,0,0.237124893352932,-0.221534100174096
+HW220920,108,main,5,4,bkbg1514,The mother tied the string,mother,tied,string,NA,1493.333333,bkbg1514_4ch.wav,0.785398163397448,1,-2.2943956219436,0
+HW220920,109,main,5,4,bkbg0611,He’s bringing his raincoat,Hes,bringing,raincoat,NA,1525.333333,bkbg0611_4ch.wav,0.785398163397448,1,-2.72487842942476,0
+HW220920,110,main,5,4,bkbg1807,She talked to her doll,She,talked,doll,NA,1376,bkbg1807_4ch.wav,0.477674549620996,0,1.18823950475273,-0.307723613776453
+HW220920,111,main,5,2,aslg0209,The father used a towel,father,used,towel,NA,1525.333333,aslg0209_8ch.wav,0.581570380828015,0,2.51943623998583,-0.203827782569433
+HW220920,112,main,5,2,bkbg0813,She writes to her brother,She,writes,brother,NA,1450.666667,bkbg0813_8ch.wav,0.785398163397448,1,-2.09959696046022,0
+HW220920,113,main,5,2,aslg0504,The new game was silly,new,game,silly,NA,1397.333333,aslg0504_8ch.wav,0.785398163397448,1,1.34633538787033,0
+HW220920,114,main,5,2,bkbg0516,The cold milk's in a jug,cold,milks,jug,NA,1610.666667,bkbg0516_8ch.wav,1.00490768811818,0,1.70234345580552,0.219509524720728
+HW220920,115,main,5,2,aslg0604,The rope was too short,rope,too,short,NA,1632,aslg0604_8ch.wav,0.785398163397448,1,-0.619113244968744,0
+HW220920,116,main,5,2,bkbg0405,The house had a nice garden,house,nice,garden,NA,1728,bkbg0405_8ch.wav,0.555453970073431,0,2.21203273538352,-0.229944193324018
+HW220920,117,main,5,3,bkbg0809,The pond water's dirty,pond,waters,dirty,NA,1557.333333,bkbg0809_4ch.wav,0.785398163397448,1,-0.23593999176443,0
+HW220920,118,main,5,3,aslg0401,The old clothes were dirty,old,clothes,dirty,NA,1600,aslg0401_4ch.wav,1.67687222408387,0,-1.31885814722705,0.891474060686422
+HW220920,119,main,5,3,bkbg1215,The boy had a toy dragon,boy,toy,dragon,NA,1610.666667,bkbg1215_4ch.wav,0.785398163397448,1,2.26060875579305,0
+HW220920,120,main,5,3,bkbg1401,The angry man shouted,angry,man,shouted,NA,1587.645833,bkbg1401_4ch.wav,1.72535302328524,0,-0.487376896169275,0.93995485988779
+HW220920,121,main,5,3,bkbg2103,A girl came into the room,girl,came,room,NA,1696,bkbg2103_4ch.wav,0.785398163397448,1,-2.49241971441887,0
+HW220920,122,main,5,3,aslg0506,They saw the sign,They,saw,sign,NA,1627.770833,aslg0506_4ch.wav,1.674120764036,0,2.55576725662318,0.888722600638554
+HW220920,123,main,5,2,aslg1813,She ironed her skirt,She,ironed,skirt,NA,1653.333333,aslg1813_8ch.wav,0.785398163397448,1,-0.841777473715622,0
+HW220920,124,main,5,2,bkbg1311,The strawberry jam was sweet,strawberry,jam,sweet,NA,1685.333333,bkbg1311_8ch.wav,0.785398163397448,1,-0.417288670578508,0
+HW220920,125,main,5,2,aslg0304,The curtains were too short,curtains,too,short,NA,1627.958333,aslg0304_8ch.wav,0.474272472820059,0,-0.46323759333432,-0.311125690577389
+HW220920,126,main,5,2,bkbg0402,The machine was quite noisy,machine,quite,noisy,NA,1738.666667,bkbg0402_8ch.wav,0.785398163397448,1,-2.48560680986303,0
+HW220920,127,main,5,2,aslg1515,The girl told her mother,girl,told,mother,NA,1269.333333,aslg1515_8ch.wav,0.605615323124247,0,-1.71843893886094,-0.179782840273201
+HW220920,128,main,5,2,bkbg0604,Men wear long trousers,Men,wear,long,trousers,1642.666667,bkbg0604_8ch.wav,0.675985808060684,0,1.7936758559416,-0.109412355336764
+HW220920,129,main,5,4,aslg1713,The boy grazed his knee,boy,grazed,knee,NA,1482.666667,aslg1713_4ch.wav,0.785398163397448,1,2.79844411902267,0
+HW220920,130,main,5,4,bkbg1404,Mother opens the drawer,Mother,opens,drawer,NA,1418.666667,bkbg1404_4ch.wav,0.571169742563769,0,0.0777423375730896,-0.214228420833679
+HW220920,131,main,5,4,bkbg0409,He found his brother,He,found,brother,NA,1088,bkbg0409_4ch.wav,0.785398163397448,1,1.83831006791357,0
+HW220920,132,main,5,4,aslg0502,He broke into the safe,He,broke,safe,NA,1749.333333,aslg0502_4ch.wav,0.49185911488065,0,-0.946310822220975,-0.293539048516798
+HW220920,133,main,5,4,bkbg1803,The mother shut the window,mother,shut,window,NA,1504,bkbg1803_4ch.wav,0.556534472388765,0,2.46148136085623,-0.228863691008683
+HW220920,134,main,5,4,bkbg0114,The lorry carried fruit,lorry,carried,fruit,NA,1706.666667,bkbg0114_4ch.wav,0.785398163397448,1,1.9273753007516,0
+HW220920,135,main,5,1,bkbg1405,An old woman was at home,old,woman,home,NA,1557.333333,bkbg1405_8ch.wav,0.785398163397448,1,0.268314638733432,0
+HW220920,136,main,5,1,aslg1603,The two boys are laughing,two,boys,laughing,NA,1354.666667,aslg1603_8ch.wav,1.73857803869045,0,-0.106455303338811,0.953179875292999
+HW220920,137,main,5,1,aslg0212,The lady pushed the pram,lady,pushed,pram,NA,1429.333333,aslg0212_8ch.wav,0.785398163397448,1,2.69890220900068,0
+HW220920,138,main,5,1,bkbg1609,Some men shave in the morning,men,shave,morning,NA,1696,bkbg1609_8ch.wav,1.77597973003788,0,-3.13714135766448,0.990581566640431
+HW220920,139,main,5,1,bkbg0206,The thin dog was hungry,thin,dog,hungry,NA,1472,bkbg0206_8ch.wav,-0.0878653932269771,0,-1.34616660812373,-0.873263556624425
+HW220920,140,main,5,1,bkbg2101,The pepper pot was empty,pepper,pot,empty,NA,1514.666667,bkbg2101_8ch.wav,0.785398163397448,1,-0.22706957888703,0
+HW220920,141,main,6,2,bkbg1507,Some nice people are coming,nice,people,coming,NA,1653.333333,bkbg1507_8ch.wav,0.785398163397448,1,3.13581952892911,0
+HW220920,142,main,6,2,bkbg1115,A fish lay on the plate,fish,lay,plate,NA,1621.333333,bkbg1115_8ch.wav,0.785398163397448,1,1.14712613098483,0
+HW220920,143,main,6,2,bkbg1010,They’re cycling along,Theyre,cycling,along,NA,1237.333333,bkbg1010_8ch.wav,0.997932066240087,0,2.1031193154262,0.212533902842639
+HW220920,144,main,6,2,aslg0102,He's wiping the table,Hes,wiping,table,NA,1450.666667,aslg0102_8ch.wav,0.785398163397448,1,-0.776752423854011,0
+HW220920,145,main,6,2,aslg1006,The paper boy was cheeky,paper,boy,cheeky,NA,1834.666667,aslg1006_8ch.wav,1.07536170712369,0,-1.34941516908904,0.28996354372624
+HW220920,146,main,6,2,aslg0411,The waiter lit the candles,waiter,lit,candles,NA,1749.333333,aslg0411_8ch.wav,0.785398163397448,1,3.08092861127662,0
+HW220920,147,main,6,4,aslg0112,The old shoes were muddy,old,shoes,muddy,NA,1472,aslg0112_4ch.wav,0.627215006005197,0,-2.70262563855892,-0.158183157392251
+HW220920,148,main,6,4,bkbg0815,The three girls are listening,three,girls,listening,NA,1696,bkbg0815_4ch.wav,0.678281029002942,0,1.29751065499521,-0.107117134394506
+HW220920,149,main,6,4,aslg1101,The lady cut her finger,lady,cut,finger,NA,1504,aslg1101_4ch.wav,0.785398163397448,1,-2.90784645628621,0
+HW220920,150,main,6,4,bkbg1204,He lost his hat,He,lost,hat,NA,1013.333333,bkbg1204_4ch.wav,0.588400051690124,0,-0.997574704562626,-0.196998111707325
+HW220920,151,main,6,4,bkbg1313,The children are all eating,children,all,eating,NA,1536,bkbg1313_4ch.wav,0.785398163397448,1,-0.22213232599944,0
+HW220920,152,main,6,4,bkbg1205,The taps are above the sink,taps,above,sink,NA,1760,bkbg1205_4ch.wav,1.02896105927964,0,0.290102608147694,0.243562895882187
+HW220920,153,main,6,2,aslg0603,The lady was quite cross,lady,quite,cross,NA,1728,aslg0603_8ch.wav,0.785398163397448,1,2.94110978243694,0
+HW220920,154,main,6,2,bkbg0708,The young people are dancing,young,people,dancing,NA,1621.333333,bkbg0708_8ch.wav,0.785398163397448,1,-1.72888962463509,0
+HW220920,155,main,6,2,aslg0810,They rowed the boat,They,rowed,boat,NA,1290.666667,aslg0810_8ch.wav,0.566288175658826,0,-0.954826009631762,-0.219109987738622
+HW220920,156,main,6,2,aslg1301,The story's very exciting,storys,very,exciting,NA,1888,aslg1301_8ch.wav,0.785398163397448,1,2.06089849459857,0
+HW220920,157,main,6,2,bkbg1407,They broke all the eggs,They,broke,all,eggs,1376,bkbg1407_8ch.wav,0.785398163397448,1,1.02723954255173,0
+HW220920,158,main,6,2,bkbg1004,The good boy's helping,good,boys,helping,NA,1322.666667,bkbg1004_8ch.wav,1.03050651601643,0,-1.2425771524936,0.245108352618984
+HW220920,159,main,6,4,bkbg1714,A girl ran along,girl,ran,along,NA,1376,bkbg1714_4ch.wav,0.785398163397448,1,-2.00786607065485,0
+HW220920,160,main,6,4,aslg0305,The knife cut the cake,knife,cut,cake,NA,1526.791667,aslg0305_4ch.wav,0.785398163397448,1,-0.356552770817143,0
+HW220920,161,main,6,4,aslg0409,They're standing up,Theyre,standing,up,NA,1301.333333,aslg0409_4ch.wav,0.513393795167736,0,-0.169783301288125,-0.272004368229713
+HW220920,162,main,6,4,bkbg0203,The ball went into the goal,ball,went,into,goal,1749.333333,bkbg0203_4ch.wav,0.556156827229997,0,1.11176822530517,-0.229241336167451
+HW220920,163,main,6,4,aslg1708,They ran up the hill,They,ran,hill,NA,1034.666667,aslg1708_4ch.wav,0.785398163397448,1,1.13254939485796,0
+HW220920,164,main,6,4,aslg0801,The girl sharpened her pencil,girl,sharpened,pencil,NA,1766.354167,aslg0801_4ch.wav,0.785398163397448,1,-1.67335350889519,0
+HW220920,165,main,6,3,aslg1207,The noise scared the sheep,noise,scared,sheep,NA,1845.145833,aslg1207_4ch.wav,-0.187023644310367,0,-0.60406348788477,-0.972421807707816
+HW220920,166,main,6,3,aslg1802,The girl carried a basket,girl,carried,basket,NA,1930.666667,aslg1802_4ch.wav,1.77314794520255,0,2.99682047720306,0.987749781805106
+HW220920,167,main,6,3,bkbg2107,She made her bed,She,made,bed,NA,1237.333333,bkbg2107_4ch.wav,0.785398163397448,1,-3.09085655467787,0
+HW220920,168,main,6,3,bkbg1107,The policeman knows the way,policeman,knows,way,NA,1568,bkbg1107_4ch.wav,-0.210578492645509,0,0.133498335147699,-0.995976656042957
+HW220920,169,main,6,3,bkbg2108,Bananas are yellow fruit,Bananas,yellow,fruit,NA,1792,bkbg2108_4ch.wav,-0.17417741573906,0,0.76595419604794,-0.959575579136508
+HW220920,170,main,6,3,aslg0711,They painted the ceiling,They,painted,ceiling,NA,1226.666667,aslg0711_4ch.wav,0.785398163397448,1,0.301165480418675,0
+HW220920,171,main,6,1,bkbg0211,A mouse ran down the hole,mouse,ran,down,hole,1762.083333,bkbg0211_8ch.wav,1.81557815729235,0,0.844974230291118,1.0301799938949
+HW220920,172,main,6,1,bkbg1616,The painter used a brush,painter,used,brush,NA,1514.666667,bkbg1616_8ch.wav,1.64062960809112,0,0.75877747645728,0.855231444693674
+HW220920,173,main,6,1,aslg0709,The sailor stood on the deck,sailor,stood,deck,NA,1621.333333,aslg0709_8ch.wav,0.785398163397448,1,1.98035524913634,0
+HW220920,174,main,6,1,bkbg1812,The yellow pears were lovely,yellow,pears,lovely,NA,1642.666667,bkbg1812_8ch.wav,1.76560978316088,0,2.98199786868502,0.980211619763427
+HW220920,175,main,6,1,aslg0215,The children sit under the tree,children,sit,tree,NA,1696,aslg0215_8ch.wav,1.68136807181941,0,-1.13383760609547,0.895969908421958
+HW220920,176,main,6,1,bkbg1516,The puppy plays with a ball,puppy,plays,ball,NA,1578.666667,bkbg1516_8ch.wav,0.785398163397448,1,-0.760278238440964,0
+HW220920,177,main,6,3,bkbg0306,The lady wore a coat,lady,wore,coat,NA,1632,bkbg0306_4ch.wav,-0.181772150820279,0,-2.02243124685612,-0.967170314217727
+HW220920,178,main,6,3,bkbg0101,The clown had a funny face,clown,funny,face,NA,1920,bkbg0101_4ch.wav,0.785398163397448,1,-0.659328159293896,0
+HW220920,179,main,6,3,bkbg0512,Somebody took the money,Somebody,took,money,NA,1429.333333,bkbg0512_4ch.wav,0.785398163397448,1,2.76030507156199,0
+HW220920,180,main,6,3,bkbg2013,She brushed her hair,She,brushed,hair,NA,1269.333333,bkbg2013_4ch.wav,-0.0560147380616852,0,-2.00896468261762,-0.841412901459133
+HW220920,181,main,6,3,bkbg0807,The ball broke the window,ball,broke,window,NA,1706.666667,bkbg0807_4ch.wav,0.785398163397448,1,-0.101886845936789,0
+HW220920,182,main,6,3,aslg0602,He reached for a cup,He,reached,cup,NA,1301.333333,aslg0602_4ch.wav,0.785398163397448,1,2.59422516150575,0
+HW220920,183,main,6,1,aslg0614,The woman called her dog,woman,called,dog,NA,1738.666667,aslg0614_8ch.wav,1.65537289932654,0,-2.054101047029,0.869974735929088
+HW220920,184,main,6,1,bkbg1603,He closed his eyes,He,closed,eyes,NA,1344,bkbg1603_8ch.wav,0.785398163397448,1,0.71003501939941,0
+HW220920,185,main,6,1,bkbg1712,Some brown leaves fell off the tree,brown,leaves,fell,tree,1964.916667,bkbg1712_8ch.wav,1.64345572306236,0,1.31263959610965,0.858057559664916
+HW220920,186,main,6,1,aslg1415,The garden's very neat,gardens,very,neat,NA,1514.666667,aslg1415_8ch.wav,0.785398163397448,1,-2.47906256186163,0
+HW220920,187,main,6,1,bkbg1414,The sign showed the way,sign,showed,way,NA,1600,bkbg1414_8ch.wav,1.63802822346394,0,-0.864763033071018,0.852630060066492
+HW220920,188,main,6,1,aslg1707,The ice melted in the sun,ice,melted,sun,NA,1600,aslg1707_8ch.wav,-0.151922124180608,0,2.31535315935434,-0.937320287578056
+HW220920,189,main,7,2,aslg1111,The man forgot his change,man,forgot,change,NA,1932.75,aslg1111_8ch.wav,0.677531143973303,0,1.51636009990999,-0.107867019424145
+HW220920,190,main,7,2,aslg0702,She tapped at the window,She,tapped,window,NA,1578.666667,aslg0702_8ch.wav,0.53081926761694,0,-2.78273328594756,-0.254578895780508
+HW220920,191,main,7,2,aslg1807,The church stood on the hill,church,stood,hill,NA,1450.666667,aslg1807_8ch.wav,0.785398163397448,1,3.12138575684543,0
+HW220920,192,main,7,2,bkbg0903,They’re climbing the tree,Theyre,climbing,tree,NA,1354.666667,bkbg0903_8ch.wav,0.893864523665813,0,-1.1333718536503,0.108466360268365
+HW220920,193,main,7,2,aslg1606,Roses grow in the garden,Roses,grow,garden,NA,1738.666667,aslg1606_8ch.wav,0.785398163397448,1,-0.692400533988721,0
+HW220920,194,main,7,2,bkbg1716,The dog chased the cat,dog,chased,cat,NA,1418.666667,bkbg1716_8ch.wav,0.61222811675491,0,-1.5571351504351,-0.173170046642538
+HW220920,195,main,7,4,aslg1715,They helped with the dishes,They,helped,dishes,NA,1461.333333,aslg1715_4ch.wav,0.785398163397448,1,-0.93646630556466,0
+HW220920,196,main,7,4,aslg1213,The new teacher's nice,new,teachers,nice,NA,1632.979167,aslg1213_4ch.wav,0.571300985336871,0,1.973609191233,-0.214097178060577
+HW220920,197,main,7,4,bkbg0508,The park’s near the road,parks,near,road,NA,1504,bkbg0508_4ch.wav,0.785398163397448,1,0.813167652685132,0
+HW220920,198,main,7,4,bkbg0808,They’re shopping for cheese,Theyre,shopping,cheese,NA,1472,bkbg0808_4ch.wav,0.905047892793831,0,2.55568913498479,0.119649729396383
+HW220920,199,main,7,4,aslg1604,The big needle was sharp,big,needle,sharp,NA,1696,aslg1604_4ch.wav,0.785398163397448,1,-3.08451707368994,0
+HW220920,200,main,7,4,aslg0201,He tore his shirt,He,tore,shirt,NA,1205.333333,aslg0201_4ch.wav,0.625335432688497,0,0.981567430685093,-0.160062730708952
+HW220920,201,main,7,1,bkbg0504,The train had a bad crash,train,bad,crash,NA,1962.666667,bkbg0504_8ch.wav,0.785398163397448,1,2.50328369898066,0
+HW220920,202,main,7,1,aslg0813,He dug with his spade,He,dug,spade,NA,1525.333333,aslg0813_8ch.wav,0.785398163397448,1,-1.07726973494424,0
+HW220920,203,main,7,1,bkbg1913,They’re staying for supper,Theyre,staying,supper,NA,1248,bkbg1913_8ch.wav,-0.190930220022698,0,2.83783168921376,-0.976328383420146
+HW220920,204,main,7,1,aslg1714,The lady has small feet,lady,small,feet,NA,1536,aslg1714_8ch.wav,-0.184691295554413,0,-1.49661134433283,-0.970089458951861
+HW220920,205,main,7,1,aslg1706,The doctor came quickly,doctor,came,quickly,NA,1333.333333,aslg1706_8ch.wav,0.785398163397448,1,2.40315262411845,0
+HW220920,206,main,7,1,bkbg1706,People are going home,People,going,home,NA,1376,bkbg1706_8ch.wav,1.63788903649504,0,0.0499574621637016,0.852490873097595
+HW220920,207,main,7,3,bkbg0613,They took some food,They,took,food,NA,1194.666667,bkbg0613_4ch.wav,0.785398163397448,1,-1.58144508639299,0
+HW220920,208,main,7,3,bkbg0814,The footballer lost a boot,footballer,lost,boot,NA,1728,bkbg0814_4ch.wav,1.68294133457756,0,-0.876008898756646,0.897543171180109
+HW220920,209,main,7,3,aslg1313,The farmer's buying some pigs,farmers,buying,pigs,NA,1728.895833,aslg1313_4ch.wav,0.785398163397448,1,0.885420621055119,0
+HW220920,210,main,7,3,aslg1801,They watched the cricket,They,watched,cricket,NA,1120,aslg1801_4ch.wav,0.785398163397448,1,-2.47556534879189,0
+HW220920,211,main,7,3,bkbg1015,The buckets hold water,buckets,hold,water,NA,1482.666667,bkbg1015_4ch.wav,1.76692393284985,0,-1.52415706025191,0.981525769452407
+HW220920,212,main,7,3,aslg0612,The men watched the race,men,watched,race,NA,1575.541667,aslg0612_4ch.wav,0.785398163397448,1,-1.85370572057159,0
+HW220920,213,main,7,2,bkbg1512,The daughter laid the table,daughter,laid,table,NA,1472,bkbg1512_8ch.wav,0.785398163397448,1,-2.96631149974976,0
+HW220920,214,main,7,2,bkbg1515,The train stops at the station,train,stops,station,NA,1813.333333,bkbg1515_8ch.wav,0.999750973537962,0,-2.67531918952077,0.214352810140514
+HW220920,215,main,7,2,bkbg0406,She spoke to her son,She,spoke,to,son,1397.333333,bkbg0406_8ch.wav,0.785398163397448,1,-2.64381437576598,0
+HW220920,216,main,7,2,bkbg1112,The boy got into bed,boy,got,into,bed,1322.666667,bkbg1112_8ch.wav,0.785398163397448,1,0.518118292997925,0
+HW220920,217,main,7,2,bkbg0704,She found her purse,She,found,purse,NA,1568,bkbg0704_8ch.wav,0.547930622719455,0,-2.79209359028846,-0.237467540677993
+HW220920,218,main,7,2,aslg0311,The team lost the match,team,lost,match,NA,1536,aslg0311_8ch.wav,0.785398163397448,1,-1.47822525603806,0
+HW220920,219,main,7,4,aslg0510,The ship sailed up the river,ship,sailed,river,NA,1706.666667,aslg0510_4ch.wav,0.480587732544481,0,-2.23434624451064,-0.304810430852968
+HW220920,220,main,7,4,aslg1215,They're going to the seaside,Theyre,going,seaside,NA,1525.333333,aslg1215_4ch.wav,0.785398163397448,1,1.09236245379889,0
+HW220920,221,main,7,4,aslg0213,They're leaving today,Theyre,leaving,today,NA,1444.25,aslg0213_4ch.wav,0.962803090626893,0,2.51915000542574,0.177404927229445
+HW220920,222,main,7,4,bkbg1904,The washing machine broke,washing,machine,broke,NA,1557.333333,bkbg1904_4ch.wav,0.659115998151997,0,0.335585827573521,-0.126282165245452
+HW220920,223,main,7,4,aslg0909,She's sewing on a button,Shes,sewing,button,NA,1461.333333,aslg0909_4ch.wav,0.785398163397448,1,-1.55865519070462,0
+HW220920,224,main,7,4,aslg0714,The boy eats with his fork,boy,eats,fork,NA,1717.333333,aslg0714_4ch.wav,0.979860589818344,0,1.68068313591858,0.194462426420896
+HW220920,225,main,7,3,bkbg0901,The book tells a story,book,tells,story,NA,1525.333333,bkbg0901_4ch.wav,0.785398163397448,1,0.933529666996682,0
+HW220920,226,main,7,3,bkbg0403,The old man worries,old,man,worries,NA,1418.666667,bkbg0403_4ch.wav,1.80367089928757,0,0.196780684605164,1.01827273589013
+HW220920,227,main,7,3,bkbg2106,The road goes up a hill,road,goes,up,hill,1546.666667,bkbg2106_4ch.wav,-0.239007614704589,0,-0.98633041335836,-1.02440577810204
+HW220920,228,main,7,3,bkbg1902,Sugar's very sweet,Sugars,very,sweet,NA,1472,bkbg1902_4ch.wav,0.785398163397448,1,-1.45760930478999,0
+HW220920,229,main,7,3,aslg0708,The cake tasted nice,cake,tasted,nice,NA,1568,aslg0708_4ch.wav,0.785398163397448,1,3.05585137341654,0
+HW220920,230,main,7,3,bkbg1316,The lorry climbed the hill,lorry,climbed,hill,NA,1440,bkbg1316_4ch.wav,1.66692736975246,0,1.47732823124131,0.881529206355015
+HW220920,231,main,7,1,bkbg0510,The dog made an angry noise,dog,made,angry,noise,1971.229167,bkbg0510_8ch.wav,0.785398163397448,1,0.821251610191602,0
+HW220920,232,main,7,1,bkbg2014,The two children are laughing,two,children,laughing,NA,1632,bkbg2014_8ch.wav,1.7624666228031,0,1.90740848075475,0.977068459405654
+HW220920,233,main,7,1,bkbg0302,The dog played with a stick,dog,played,stick,NA,1589.333333,bkbg0302_8ch.wav,0.785398163397448,1,1.80274144646802,0
+HW220920,234,main,7,1,aslg1513,They watched the sunset,They,watched,sunset,NA,1248,aslg1513_8ch.wav,-0.114234443591435,0,0.0374746742396197,-0.899632606988884
+HW220920,235,main,7,1,bkbg1601,The children wave at the train,children,wave,train,NA,1728,bkbg1601_8ch.wav,0.785398163397448,1,0.636756171723122,0
+HW220920,236,main,7,1,bkbg0111,The bag bumps on the ground,bag,bumps,ground,NA,1920,bkbg0111_8ch.wav,1.76970449427897,0,1.54137025615123,0.984306330881525
+HW220920,237,main,8,3,bkbg1501,A man’s turning the tap,mans,turning,tap,NA,1760,bkbg1501_4ch.wav,0.785398163397448,1,-0.363072910429159,0
+HW220920,238,main,8,3,aslg0805,The family's having a picnic,familys,having,picnic,NA,1813.333333,aslg0805_4ch.wav,-0.209295573133542,0,2.91805454338,-0.994693736530991
+HW220920,239,main,8,3,aslg0402,He carried a stick,He,carried,stick,NA,1258.666667,aslg0402_4ch.wav,0.785398163397448,1,-2.36367613156593,0
+HW220920,240,main,8,3,bkbg2114,The kettle boiled quickly,kettle,boiled,quickly,NA,1568,bkbg2114_4ch.wav,0.785398163397448,1,1.68734190201146,0
+HW220920,241,main,8,3,aslg1610,The old man was poor,old,man,poor,NA,1322.666667,aslg1610_4ch.wav,1.62444029324942,0,-2.72729387348612,0.839042129851967
+HW220920,242,main,8,3,bkbg1806,Rain falls from clouds,Rain,falls,clouds,NA,1824,bkbg1806_4ch.wav,1.75452080644333,0,-2.71412255280669,0.969122643045882
+HW220920,243,main,8,2,bkbg0806,The jug stood on the shelf,jug,stood,shelf,NA,1717.333333,bkbg0806_8ch.wav,0.785398163397448,1,0.131591526293418,0
+HW220920,244,main,8,2,bkbg1508,She bumped her head,She,bumped,head,NA,1184,bkbg1508_8ch.wav,0.665601937362625,0,1.01546540230676,-0.119796226034823
+HW220920,245,main,8,2,aslg1107,The apples came in a bag,apples,came,bag,NA,1629.1875,aslg1107_8ch.wav,0.97114397775958,0,-2.96004674794622,0.185745814362131
+HW220920,246,main,8,2,aslg1405,The lady wore her coat,lady,wore,coat,NA,1461.333333,aslg1405_8ch.wav,0.785398163397448,1,0.0385113238637679,0
+HW220920,247,main,8,2,bkbg0912,The lady packed her bag,lady,packed,bag,NA,1546.666667,bkbg0912_8ch.wav,0.785398163397448,1,0.984359066546644,0
+HW220920,248,main,8,2,aslg1311,The lady writes to her sister,lady,writes,sister,NA,1717.333333,aslg1311_8ch.wav,0.669440621539042,0,-1.89861413494185,-0.115957541858407
+HW220920,249,main,8,1,aslg0509,The apple pie was hot,apple,pie,hot,NA,1482.666667,aslg0509_8ch.wav,-0.108014077209968,0,-2.46301990775561,-0.893412240607416
+HW220920,250,main,8,1,bkbg2008,They sat on a wooden bench,They,sat,wooden,bench,1738.666667,bkbg2008_8ch.wav,0.785398163397448,1,-2.488543612266,0
+HW220920,251,main,8,1,bkbg0215,They’re watching the train,Theyre,watching,train,NA,1344,bkbg0215_8ch.wav,-0.173321221741758,0,-2.76966175403433,-0.958719385139206
+HW220920,252,main,8,1,aslg0512,The noisy dog is barking,noisy,dog,barking,NA,1952,aslg0512_8ch.wav,-0.0617246553752201,0,-2.7916480293124,-0.847122818772668
+HW220920,253,main,8,1,bkbg0209,She’s taking her coat,Shes,taking,coat,NA,1514.666667,bkbg0209_8ch.wav,0.785398163397448,1,1.40977629780491,0
+HW220920,254,main,8,1,bkbg1905,They’re clearing the table,Theyre,clearing,table,NA,1322.666667,bkbg1905_8ch.wav,1.80450962021949,0,1.68995246013599,1.01911145682204
+HW220920,255,main,8,4,aslg1305,The woman used her key,woman,used,key,NA,1856,aslg1305_4ch.wav,0.785398163397448,1,-2.48616951527189,0
+HW220920,256,main,8,4,aslg0113,Father's hiding the presents,Fathers,hiding,presents,NA,1877.333333,aslg0113_4ch.wav,0.513995622663207,0,0.927201168594956,-0.271402540734241
+HW220920,257,main,8,4,bkbg1109,He wore his yellow shirt,He,wore,yellow,shirt,1493.333333,bkbg1109_4ch.wav,0.940215220786204,0,2.87442134619106,0.154817057388756
+HW220920,258,main,8,4,bkbg1003,She looked in her mirror,She,looked,in,mirror,1194.666667,bkbg1003_4ch.wav,0.785398163397448,1,1.30313961599645,0
+HW220920,259,main,8,4,aslg1504,The green apples were sour,green,apples,sour,NA,1799.770833,aslg1504_4ch.wav,0.785398163397448,1,2.34484861160169,0
+HW220920,260,main,8,4,aslg1702,Mother cooked the dinner,Mother,cooked,dinner,NA,1141.333333,aslg1702_4ch.wav,1.02088298630385,0,-2.03471246915337,0.235484822906407
+HW220920,261,main,8,1,aslg0108,The bull chased the lady,bull,chased,lady,NA,1728,aslg0108_8ch.wav,0.785398163397448,1,-2.82860612364969,0
+HW220920,262,main,8,1,aslg1001,She sings in the bath,She,sings,bath,NA,1930.666667,aslg1001_8ch.wav,0.785398163397448,1,-1.42458400837575,0
+HW220920,263,main,8,1,bkbg1001,A tea towel’s by the sink,tea,towels,sink,NA,1568,bkbg1001_8ch.wav,-0.151119269552709,0,2.0568641553631,-0.936517432950158
+HW220920,264,main,8,1,aslg1012,The water poured from a jug,water,poured,jug,NA,1781.333333,aslg1012_8ch.wav,-0.215916692997016,0,-0.191180247796503,-1.00131485639446
+HW220920,265,main,8,1,bkbg0816,The coat lies on a chair,coat,lies,on,chair,1664,bkbg0816_8ch.wav,0.785398163397448,1,0.701148360190364,0
+HW220920,266,main,8,1,aslg1605,The hill was very steep,hill,very,steep,NA,1578.666667,aslg1605_8ch.wav,0.785398163397448,1,1.78582132700414,0
+HW220920,267,main,8,4,bkbg2115,The man’s painting a sign,mans,painting,sign,NA,1653.333333,bkbg2115_4ch.wav,1.04973412265845,0,-1.05450717376952,0.264335959260999
+HW220920,268,main,8,4,bkbg1312,The plant hangs above the door,plant,hangs,above,door,1664,bkbg1312_4ch.wav,0.785398163397448,1,2.4641264529167,0
+HW220920,269,main,8,4,aslg0706,The woman listened to her iend,woman,listened,iend,NA,1876.375,aslg0706_4ch.wav,0.640196216494869,0,2.65468530489709,-0.14520194690258
+HW220920,270,main,8,4,aslg0414,The small puppy was scared,small,puppy,scared,NA,1813.333333,aslg0414_4ch.wav,0.491552238969892,0,-1.21506669366977,-0.293845924427556
+HW220920,271,main,8,4,bkbg1201,The food cost a lot,food,cost,lot,NA,1440,bkbg1201_4ch.wav,0.785398163397448,1,-2.06470218162839,0
+HW220920,272,main,8,4,bkbg1710,The scissors are quite sharp,scissors,quite,sharp,NA,1546.666667,bkbg1710_4ch.wav,1.03552317643629,0,-2.87686012292473,0.250125013038843
+HW220920,273,main,8,2,bkbg1102,The dogs go for a walk,dogs,go,walk,NA,1557.333333,bkbg1102_8ch.wav,0.785398163397448,1,-1.50809186111441,0
+HW220920,274,main,8,2,bkbg2113,The father picked some pears,father,picked,pears,NA,1845.333333,bkbg2113_8ch.wav,0.785398163397448,1,-2.41697023477189,0
+HW220920,275,main,8,2,aslg0503,The doctor carries a bag,doctor,carries,bag,NA,1759.75,aslg0503_8ch.wav,0.510045466701575,0,-1.63569356128058,-0.275352696695873
+HW220920,276,main,8,2,bkbg1808,They painted the wall,They,painted,wall,NA,1205.333333,bkbg1808_8ch.wav,0.785398163397448,1,0.261222115079603,0
+HW220920,277,main,8,2,bkbg0907,The five men are working,five,men,working,NA,1493.333333,bkbg0907_8ch.wav,0.997026395305275,0,-0.654774877398799,0.211628231907827
+HW220920,278,main,8,2,aslg0309,The sun shone through the clouds,sun,shone,clouds,NA,1972.416667,aslg0309_8ch.wav,0.785398163397448,1,-0.343546119402288,0
+HW220920,279,main,8,3,bkbg1704,They knocked on the window,They,knocked,window,NA,1397.333333,bkbg1704_4ch.wav,0.785398163397448,1,1.68680157191063,0
+HW220920,280,main,8,3,bkbg1909,He’s reaching for his spoon,Hes,reaching,spoon,NA,1557.333333,bkbg1909_4ch.wav,-0.190788745832057,0,-1.57595483953316,-0.976186909229505
+HW220920,281,main,8,3,aslg1602,The sister hurt her leg,sister,hurt,leg,NA,1578.666667,aslg1602_4ch.wav,0.785398163397448,1,0.940313116132605,0
+HW220920,282,main,8,3,bkbg0505,The kitchen sink's empty,kitchen,sink,empty,NA,1749.333333,bkbg0505_4ch.wav,0.785398163397448,1,-2.56954029740742,0
+HW220920,283,main,8,3,bkbg1206,Father paid at the gate,Father,paid,at,gate,1440,bkbg1206_4ch.wav,1.69432509663103,0,-1.03911209071783,0.908926933233579
+HW220920,284,main,8,3,aslg0513,They bought some tickets,They,bought,tickets,NA,1472,aslg0513_4ch.wav,1.63051815964088,0,-1.17559531495696,0.845119996243433
+HW220920,285,main,9,2,aslg1408,The rose bush was blooming,rose,bush,blooming,NA,1525.333333,aslg1408_8ch.wav,0.785398163397448,1,-2.38472422108538,0
+HW220920,286,main,9,2,bkbg2009,Mother made some curtains,Mother,made,curtains,NA,1642.666667,bkbg2009_8ch.wav,0.90910623568148,0,-1.87134570760478,0.123708072284031
+HW220920,287,main,9,2,aslg0312,The shirt caught on a nail,shirt,caught,nail,NA,1856,aslg0312_8ch.wav,0.785398163397448,1,-2.03291785778152,0
+HW220920,288,main,9,2,aslg0413,The woman slipped on the ice,woman,slipped,ice,NA,1962.666667,aslg0413_8ch.wav,0.785398163397448,1,-0.0236001625066095,0
+HW220920,289,main,9,2,aslg0804,The plant grows on the wall,plant,grows,wall,NA,1759.729167,aslg0804_8ch.wav,0.671323622068586,0,0.427896297353558,-0.114074541328862
+HW220920,290,main,9,2,bkbg0107,The green tomatoes are small,green,tomatoes,small,NA,1962.666667,bkbg0107_8ch.wav,0.785398163397448,1,0.804541041937773,0
+HW220920,291,main,9,1,aslg1204,The other team are losing,other,team,losing,NA,1962.666667,aslg1204_8ch.wav,-0.100472326079177,0,1.62098150165699,-0.885870489476625
+HW220920,292,main,9,1,bkbg1509,They met some friends,They,met,some,friends,1354.666667,bkbg1509_8ch.wav,0.785398163397448,1,2.35966792004991,0
+HW220920,293,main,9,1,aslg1613,The car hit the tree,car,hit,tree,NA,1557.333333,aslg1613_8ch.wav,1.82050891248904,0,1.44615887391763,1.0351107490916
+HW220920,294,main,9,1,bkbg0412,They’re kneeling down,Theyre,kneeling,down,NA,1226.666667,bkbg0412_8ch.wav,-0.199076570385427,0,-2.26462391913728,-0.984474733782875
+HW220920,295,main,9,1,bkbg1614,The cars going too fast,cars,going,too,fast,1728,bkbg1614_8ch.wav,0.785398163397448,1,1.41252807482884,0
+HW220920,296,main,9,1,bkbg2016,The flower stands in a pot,flower,stands,pot,NA,1728,bkbg2016_8ch.wav,-0.157957448004732,0,-0.660267522591786,-0.94335561140218
+HW220920,297,main,9,4,aslg0410,Someone's hiding in the bushes,Someones,hiding,bushes,NA,1898.666667,aslg0410_4ch.wav,0.982540756281483,0,1.12379661675957,0.197142592884035
+HW220920,298,main,9,4,bkbg0612,A sharp knife's dangerous,sharp,knifes,dangerous,NA,1834.666667,bkbg0612_4ch.wav,0.785398163397448,1,-1.33125177208629,0
+HW220920,299,main,9,4,bkbg1403,They’re drinking tea,Theyre,drinking,tea,NA,1120,bkbg1403_4ch.wav,0.785398163397448,1,-2.44579734796107,0
+HW220920,300,main,9,4,aslg1808,The farmer sowed some seeds,farmer,sowed,seeds,NA,1824,aslg1808_4ch.wav,0.893304069974295,0,2.45197673439673,0.107905906576847
+HW220920,301,main,9,4,aslg1404,They called the police,They,called,police,NA,1248,aslg1404_4ch.wav,0.785398163397448,1,0.486908629771844,0
+HW220920,302,main,9,4,bkbg1708,The lady sat on her chair,lady,sat,chair,NA,1696,bkbg1708_4ch.wav,0.785398163397448,1,-1.22457993793992,0
+HW220920,303,main,9,3,aslg1110,The children cleared the table,children,cleared,table,NA,1699.104167,aslg1110_4ch.wav,-0.258757148985259,0,-0.852991465324003,-1.04415531238271
+HW220920,304,main,9,3,bkbg1113,The two farmers are talking,two,farmers,talking,NA,1546.666667,bkbg1113_4ch.wav,0.785398163397448,1,2.04872195977551,0
+HW220920,305,main,9,3,aslg1815,The biscuit tin was empty,biscuit,tin,empty,NA,1834.666667,aslg1815_4ch.wav,-0.156168766318269,0,0.896880275607566,-0.941566929715718
+HW220920,306,main,9,3,aslg0809,The post office was near,post,office,near,NA,1322.666667,aslg0809_4ch.wav,0.785398163397448,1,-2.82724535323133,0
+HW220920,307,main,9,3,aslg0812,The baby lost his rattle,baby,lost,rattle,NA,1685.333333,aslg0812_4ch.wav,1.62849732210166,0,2.46151763465395,0.843099158704212
+HW220920,308,main,9,3,bkbg0614,The clever girls are reading,clever,girls,reading,NA,1557.333333,bkbg0614_4ch.wav,1.77582306676482,0,-2.09925478083124,0.990424903367372
+HW220920,309,main,9,1,aslg0814,The boiled egg was soft,boiled,egg,soft,NA,1685.333333,aslg0814_8ch.wav,0.785398163397448,1,-0.897124521811418,0
+HW220920,310,main,9,1,aslg1303,The pool was very deep,pool,very,deep,NA,1621.333333,aslg1303_8ch.wav,0.785398163397448,1,1.65575138226837,0
+HW220920,311,main,9,1,aslg0601,The girl knew the story,girl,knew,story,NA,1525.333333,aslg0601_8ch.wav,-0.0768313103967131,0,2.41574780045424,-0.862229473794161
+HW220920,312,main,9,1,aslg0811,The old fox was sly,old,fox,sly,NA,1903.291667,aslg0811_8ch.wav,0.785398163397448,1,2.85070035308139,0
+HW220920,313,main,9,1,aslg0313,They picked some raspberries,They,picked,raspberries,NA,1866.666667,aslg0313_8ch.wav,0.785398163397448,1,-1.79279320041663,0
+HW220920,314,main,9,1,aslg1609,The iends came for tea,iends,came,tea,NA,1632,aslg1609_8ch.wav,-0.0916060374761953,0,-1.30482328813681,-0.877004200873644
+HW220920,315,main,9,4,bkbg0316,A girl kicked the table,girl,kicked,table,NA,1546.666667,bkbg0316_4ch.wav,0.926285291085171,0,-2.6130287579792,0.140887127687723
+HW220920,316,main,9,4,bkbg0216,The school finished early,school,finished,early,NA,1610.666667,bkbg0216_4ch.wav,0.785398163397448,1,2.96558230999356,0
+HW220920,317,main,9,4,aslg1611,They ate some plums,They,ate,plums,NA,1333.333333,aslg1611_4ch.wav,0.983683297554326,0,1.06437959600175,0.198285134156877
+HW220920,318,main,9,4,aslg1809,The east wind was cold,east,wind,cold,NA,1728,aslg1809_4ch.wav,0.785398163397448,1,0.0115888418289104,0
+HW220920,319,main,9,4,aslg1608,The father answered the door,father,answered,door,NA,1493.333333,aslg1608_4ch.wav,0.607869503151822,0,-2.1594803213,-0.177528660245627
+HW220920,320,main,9,4,bkbg1709,They had some jam pudding,They,jam,pudding,NA,1397.333333,bkbg1709_4ch.wav,0.785398163397448,1,-1.99091677546856,0
+HW220920,321,main,9,2,bkbg0715,He’s holding his nose,Hes,holding,nose,NA,1429.333333,bkbg0715_8ch.wav,0.632552581689279,0,2.27642239117515,-0.15284558170817
+HW220920,322,main,9,2,aslg0608,The china vase was broken,china,vase,broken,NA,1851.916667,aslg0608_8ch.wav,1.02748911769229,0,0.118573311496997,0.242090954294844
+HW220920,323,main,9,2,aslg0415,The lady changed her mind,lady,changed,mind,NA,1898.666667,aslg0415_8ch.wav,0.785398163397448,1,0.61947253110589,0
+HW220920,324,main,9,2,bkbg1607,She’s paying for her bread,Shes,paying,bread,NA,1440,bkbg1607_8ch.wav,0.785398163397448,1,2.02105408084236,0
+HW220920,325,main,9,2,bkbg0309,The milk came in a bottle,milk,came,bottle,NA,1653.333333,bkbg0309_8ch.wav,1.04549610133662,0,-2.91823577603471,0.260097937939174
+HW220920,326,main,9,2,bkbg0315,The room's getting cold,rooms,getting,cold,NA,1440,bkbg0315_8ch.wav,0.598614790507584,0,1.31943931324081,-0.186783372889864
+HW220920,327,main,9,3,bkbg1108,The little girl was happy,little,girl,happy,NA,1386.666667,bkbg1108_4ch.wav,0.785398163397448,1,1.09418174622837,0
+HW220920,328,main,9,3,aslg1106,The pudding was very good,pudding,very,good,NA,1974.166667,aslg1106_4ch.wav,0.785398163397448,1,0.244580693978665,0
+HW220920,329,main,9,3,aslg0815,The two ladies were watching,two,ladies,watching,NA,1760,aslg0815_4ch.wav,1.76178128050306,0,1.1689730624779,0.976383117105609
+HW220920,330,main,9,3,bkbg0709,The bus went early,bus,went,early,NA,1354.666667,bkbg0709_4ch.wav,0.785398163397448,1,2.75861915234085,0
+HW220920,331,main,9,3,aslg0515,The nurse helped the child,nurse,helped,child,NA,1774.916667,aslg0515_4ch.wav,1.65906398550726,0,-0.137905070817295,0.873665822109809
+HW220920,332,main,9,3,aslg0707,The driver hooted his horn,driver,hooted,horn,NA,1813.333333,aslg0707_4ch.wav,1.62738571064455,0,2.75990599251675,0.841987547247104
+HW220920,333,posttest,10,2,bkbg1808,They painted the wall,They,painted,wall,NA,1205.333333,bkbg1808_8ch.wav,0.785398163397448,1,0.261222115079603,0
+HW220920,334,posttest,10,1,bkbg1812,The yellow pears were lovely,yellow,pears,lovely,NA,1642.666667,bkbg1812_8ch.wav,1.76560978316088,0,2.98199786868502,0.980211619763427
+HW220920,335,posttest,10,1,aslg1315,The boy ate his lunch,boy,ate,lunch,NA,1962.666667,aslg1315_8ch.wav,-0.174355569712856,0,-2.09550876517566,-0.959753733110304
+HW220920,336,posttest,10,4,bkbg0102,The car engine's running,car,engines,running,NA,1546.666667,bkbg0102_4ch.wav,0.628151466841377,0,-2.29759675729577,-0.157246696556071
+HW220920,337,posttest,10,1,aslg0811,The old fox was sly,old,fox,sly,NA,1903.291667,aslg0811_8ch.wav,0.785398163397448,1,2.85070035308139,0
+HW220920,338,posttest,10,NaN,bkbg1310,The big dog was dangerous,big,dog,dangerous,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,339,posttest,10,4,bkbg1714,A girl ran along,girl,ran,along,NA,1376,bkbg1714_4ch.wav,0.785398163397448,1,-2.00786607065485,0
+HW220920,340,posttest,10,3,bkbg1704,They knocked on the window,They,knocked,window,NA,1397.333333,bkbg1704_4ch.wav,0.785398163397448,1,1.68680157191063,0
+HW220920,341,posttest,10,3,bkbg0807,The ball broke the window,ball,broke,window,NA,1706.666667,bkbg0807_4ch.wav,0.785398163397448,1,-0.101886845936789,0
+HW220920,342,posttest,10,3,aslg1106,The pudding was very good,pudding,very,good,NA,1974.166667,aslg1106_4ch.wav,0.785398163397448,1,0.244580693978665,0
+HW220920,343,posttest,10,2,bkbg1503,He’s sucking his thumb,Hes,sucking,thumb,NA,1280,bkbg1503_8ch.wav,1.01087143857347,0,2.33640761709133,0.22547327517602
+HW220920,344,posttest,10,2,bkbg1801,The cake shop's opening,cake,shops,opening,NA,1376,bkbg1801_8ch.wav,0.785398163397448,1,-1.34249357384471,0
+HW220920,345,posttest,10,1,bkbg0111,The bag bumps on the ground,bag,bumps,ground,NA,1920,bkbg0111_8ch.wav,1.76970449427897,0,1.54137025615123,0.984306330881525
+HW220920,346,posttest,10,NaN,aslg1401,The chocolate box was empty,chocolate,box,empty,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,347,posttest,10,1,aslg1714,The lady has small feet,lady,small,feet,NA,1536,aslg1714_8ch.wav,-0.184691295554413,0,-1.49661134433283,-0.970089458951861
+HW220920,348,posttest,10,3,bkbg2013,She brushed her hair,She,brushed,hair,NA,1269.333333,bkbg2013_4ch.wav,-0.0560147380616852,0,-2.00896468261762,-0.841412901459133
+HW220920,349,posttest,10,3,aslg0401,The old clothes were dirty,old,clothes,dirty,NA,1600,aslg0401_4ch.wav,1.67687222408387,0,-1.31885814722705,0.891474060686422
+HW220920,350,posttest,10,2,bkbg1508,She bumped her head,She,bumped,head,NA,1184,bkbg1508_8ch.wav,0.665601937362625,0,1.01546540230676,-0.119796226034823
+HW220920,351,posttest,10,NaN,bkbg0705,The fruit lies on the ground,fruit,lies,ground,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,352,posttest,10,2,bkbg0912,The lady packed her bag,lady,packed,bag,NA,1546.666667,bkbg0912_8ch.wav,0.785398163397448,1,0.984359066546644,0
+HW220920,353,posttest,10,3,bkbg0613,They took some food,They,took,food,NA,1194.666667,bkbg0613_4ch.wav,0.785398163397448,1,-1.58144508639299,0
+HW220920,354,posttest,10,1,bkbg0906,A letter fell on the mat,letter,fell,mat,NA,1685.333333,bkbg0906_8ch.wav,0.785398163397448,1,1.06830123002928,0
+HW220920,355,posttest,10,NaN,aslg1710,The father signed a letter,father,signed,letter,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,356,posttest,10,2,bkbg1116,The father writes a letter,father,writes,letter,NA,1418.666667,bkbg1116_8ch.wav,0.785398163397448,1,1.18894789013768,0
+HW220920,357,posttest,10,2,aslg0804,The plant grows on the wall,plant,grows,wall,NA,1759.729167,aslg0804_8ch.wav,0.671323622068586,0,0.427896297353558,-0.114074541328862
+HW220920,358,posttest,10,4,bkbg1204,He lost his hat,He,lost,hat,NA,1013.333333,bkbg1204_4ch.wav,0.588400051690124,0,-0.997574704562626,-0.196998111707325
+HW220920,359,posttest,10,NaN,bkbg1602,Mother cut the Christmas cake,Mother,cut,Christmas,cake,NaN,,NaN,NaN,NaN,NaN
+HW220920,360,posttest,10,1,aslg1605,The hill was very steep,hill,very,steep,NA,1578.666667,aslg1605_8ch.wav,0.785398163397448,1,1.78582132700414,0
+HW220920,361,posttest,10,NaN,aslg1407,The dog heard a noise,dog,heard,noise,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,362,posttest,10,1,aslg1613,The car hit the tree,car,hit,tree,NA,1557.333333,aslg1613_8ch.wav,1.82050891248904,0,1.44615887391763,1.0351107490916
+HW220920,363,posttest,10,NaN,aslg0210,The tree was in the back garden,tree,back,garden,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,364,posttest,10,1,bkbg1706,People are going home,People,going,home,NA,1376,bkbg1706_8ch.wav,1.63788903649504,0,0.0499574621637016,0.852490873097595
+HW220920,365,posttest,10,4,bkbg0216,The school finished early,school,finished,early,NA,1610.666667,bkbg0216_4ch.wav,0.785398163397448,1,2.96558230999356,0
+HW220920,366,posttest,10,1,aslg1001,She sings in the bath,She,sings,bath,NA,1930.666667,aslg1001_8ch.wav,0.785398163397448,1,-1.42458400837575,0
+HW220920,367,posttest,10,1,bkbg1516,The puppy plays with a ball,puppy,plays,ball,NA,1578.666667,bkbg1516_8ch.wav,0.785398163397448,1,-0.760278238440964,0
+HW220920,368,posttest,10,2,aslg1214,The traffic lights are green,traffic,lights,green,NA,1974.666667,aslg1214_8ch.wav,1.00070769265388,0,1.37284471229548,0.215309529256436
+HW220920,369,posttest,10,4,aslg1504,The green apples were sour,green,apples,sour,NA,1799.770833,aslg1504_4ch.wav,0.785398163397448,1,2.34484861160169,0
+HW220920,370,posttest,10,NaN,bkbg1014,The ground was too hard,ground,too,hard,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,371,posttest,10,4,bkbg0808,They’re shopping for cheese,Theyre,shopping,cheese,NA,1472,bkbg0808_4ch.wav,0.905047892793831,0,2.55568913498479,0.119649729396383
+HW220920,372,posttest,10,1,bkbg2008,They sat on a wooden bench,They,sat,wooden,bench,1738.666667,bkbg2008_8ch.wav,0.785398163397448,1,-2.488543612266,0
+HW220920,373,posttest,10,NaN,bkbg1613,The oven door was open,oven,door,open,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,374,posttest,10,4,aslg0112,The old shoes were muddy,old,shoes,muddy,NA,1472,aslg0112_4ch.wav,0.627215006005197,0,-2.70262563855892,-0.158183157392251
+HW220920,375,posttest,10,4,aslg0706,The woman listened to her iend,woman,listened,iend,NA,1876.375,aslg0706_4ch.wav,0.640196216494869,0,2.65468530489709,-0.14520194690258
+HW220920,376,posttest,10,1,aslg0814,The boiled egg was soft,boiled,egg,soft,NA,1685.333333,aslg0814_8ch.wav,0.785398163397448,1,-0.897124521811418,0
+HW220920,377,posttest,10,1,aslg0601,The girl knew the story,girl,knew,story,NA,1525.333333,aslg0601_8ch.wav,-0.0768313103967131,0,2.41574780045424,-0.862229473794161
+HW220920,378,posttest,10,3,bkbg1401,The angry man shouted,angry,man,shouted,NA,1587.645833,bkbg1401_4ch.wav,1.72535302328524,0,-0.487376896169275,0.93995485988779
+HW220920,379,posttest,10,2,bkbg1407,They broke all the eggs,They,broke,all,eggs,1376,bkbg1407_8ch.wav,0.785398163397448,1,1.02723954255173,0
+HW220920,380,posttest,10,2,aslg0503,The doctor carries a bag,doctor,carries,bag,NA,1759.75,aslg0503_8ch.wav,0.510045466701575,0,-1.63569356128058,-0.275352696695873
+HW220920,381,posttest,10,4,bkbg0611,He’s bringing his raincoat,Hes,bringing,raincoat,NA,1525.333333,bkbg0611_4ch.wav,0.785398163397448,1,-2.72487842942476,0
+HW220920,382,posttest,10,NaN,bkbg2003,The football hit the goalpost,football,hit,goalpost,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,383,posttest,10,3,bkbg1316,The lorry climbed the hill,lorry,climbed,hill,NA,1440,bkbg1316_4ch.wav,1.66692736975246,0,1.47732823124131,0.881529206355015
+HW220920,384,posttest,10,1,aslg0315,The lady hurt her arm,lady,hurt,arm,NA,1609.291667,aslg0315_8ch.wav,0.785398163397448,1,-0.131702560771836,0
+HW220920,385,posttest,10,NaN,aslg1607,The puppy chased the ball,puppy,chased,ball,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,386,posttest,10,3,aslg0913,The cat jumped onto the table,cat,jumped,table,NA,1696,aslg0913_4ch.wav,1.74003851140259,0,0.408377809588801,0.954640348005146
+HW220920,387,posttest,10,NaN,bkbg0208,Snow falls at Christmas,Snow,falls,Christmas,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,388,posttest,10,2,aslg0311,The team lost the match,team,lost,match,NA,1536,aslg0311_8ch.wav,0.785398163397448,1,-1.47822525603806,0
+HW220920,389,posttest,10,NaN,bkbg1111,The cow gave some milk,cow,gave,milk,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,390,posttest,10,1,aslg1603,The two boys are laughing,two,boys,laughing,NA,1354.666667,aslg1603_8ch.wav,1.73857803869045,0,-0.106455303338811,0.953179875292999
+HW220920,391,posttest,10,4,aslg0714,The boy eats with his fork,boy,eats,fork,NA,1717.333333,aslg0714_4ch.wav,0.979860589818344,0,1.68068313591858,0.194462426420896
+HW220920,392,posttest,10,4,bkbg0203,The ball went into the goal,ball,went,into,goal,1749.333333,bkbg0203_4ch.wav,0.556156827229997,0,1.11176822530517,-0.229241336167451
+HW220920,393,posttest,10,NaN,bkbg0212,The lady’s making a toy,ladys,making,toy,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,394,posttest,10,3,aslg1610,The old man was poor,old,man,poor,NA,1322.666667,aslg1610_4ch.wav,1.62444029324942,0,-2.72729387348612,0.839042129851967
+HW220920,395,posttest,10,2,aslg0102,He's wiping the table,Hes,wiping,table,NA,1450.666667,aslg0102_8ch.wav,0.785398163397448,1,-0.776752423854011,0
+HW220920,396,posttest,10,NaN,aslg0605,She's listening to the radio,Shes,listening,radio,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,397,posttest,10,3,aslg0104,The yellow leaves are falling,yellow,leaves,falling,NA,1760,aslg0104_4ch.wav,0.785398163397448,1,-1.32709419772906,0
+HW220920,398,posttest,10,NaN,bkbg1208,The bread van's coming,bread,vans,coming,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,399,posttest,10,1,aslg0115,The neighbour knocked at the door,neighbour,knocked,door,NA,1728,aslg0115_8ch.wav,0.785398163397448,1,-2.76655791770771,0
+HW220920,400,posttest,10,NaN,bkbg1908,The bath water was warm,bath,water,warm,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,401,posttest,10,3,bkbg2107,She made her bed,She,made,bed,NA,1237.333333,bkbg2107_4ch.wav,0.785398163397448,1,-3.09085655467787,0
+HW220920,402,posttest,10,4,bkbg0114,The lorry carried fruit,lorry,carried,fruit,NA,1706.666667,bkbg0114_4ch.wav,0.785398163397448,1,1.9273753007516,0
+HW220920,403,posttest,10,2,bkbg0903,They’re climbing the tree,Theyre,climbing,tree,NA,1354.666667,bkbg0903_8ch.wav,0.893864523665813,0,-1.1333718536503,0.108466360268365
+HW220920,404,posttest,10,NaN,aslg1306,The red dress was pretty,red,dress,pretty,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,405,posttest,10,4,aslg1604,The big needle was sharp,big,needle,sharp,NA,1696,aslg1604_4ch.wav,0.785398163397448,1,-3.08451707368994,0
+HW220920,406,posttest,10,2,bkbg0907,The five men are working,five,men,working,NA,1493.333333,bkbg0907_8ch.wav,0.997026395305275,0,-0.654774877398799,0.211628231907827
+HW220920,407,posttest,10,1,bkbg1509,They met some friends,They,met,some,friends,1354.666667,bkbg1509_8ch.wav,0.785398163397448,1,2.35966792004991,0
+HW220920,408,posttest,10,NaN,aslg0208,The snow lay on the hills,snow,lay,hills,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,409,posttest,10,4,bkbg0202,They had a lovely day,They,lovely,day,NA,1301.333333,bkbg0202_4ch.wav,1.0080108243577,0,2.88480314590455,0.22261266096025
+HW220920,410,posttest,10,NaN,bkbg1811,A boy broke the fence,boy,broke,fence,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,411,posttest,10,1,aslg0614,The woman called her dog,woman,called,dog,NA,1738.666667,aslg0614_8ch.wav,1.65537289932654,0,-2.054101047029,0.869974735929088
+HW220920,412,posttest,10,4,aslg1713,The boy grazed his knee,boy,grazed,knee,NA,1482.666667,aslg1713_4ch.wav,0.785398163397448,1,2.79844411902267,0
+HW220920,413,posttest,10,NaN,bkbg1513,They walked across the grass,They,walked,across,grass,NaN,,NaN,NaN,NaN,NaN
+HW220920,414,posttest,10,3,bkbg1909,He’s reaching for his spoon,Hes,reaching,spoon,NA,1557.333333,bkbg1909_4ch.wav,-0.190788745832057,0,-1.57595483953316,-0.976186909229505
+HW220920,415,posttest,10,2,bkbg1607,She’s paying for her bread,Shes,paying,bread,NA,1440,bkbg1607_8ch.wav,0.785398163397448,1,2.02105408084236,0
+HW220920,416,posttest,10,2,bkbg1515,The train stops at the station,train,stops,station,NA,1813.333333,bkbg1515_8ch.wav,0.999750973537962,0,-2.67531918952077,0.214352810140514
+HW220920,417,posttest,10,3,aslg0612,The men watched the race,men,watched,race,NA,1575.541667,aslg0612_4ch.wav,0.785398163397448,1,-1.85370572057159,0
+HW220920,418,posttest,10,2,aslg0504,The new game was silly,new,game,silly,NA,1397.333333,aslg0504_8ch.wav,0.785398163397448,1,1.34633538787033,0
+HW220920,419,posttest,10,2,bkbg2113,The father picked some pears,father,picked,pears,NA,1845.333333,bkbg2113_8ch.wav,0.785398163397448,1,-2.41697023477189,0
+HW220920,420,posttest,10,2,bkbg1010,They’re cycling along,Theyre,cycling,along,NA,1237.333333,bkbg1010_8ch.wav,0.997932066240087,0,2.1031193154262,0.212533902842639
+HW220920,421,posttest,10,3,aslg0110,The room has a lovely view,room,lovely,view,NA,1696,aslg0110_4ch.wav,-0.199279249884034,0,-1.03696179450355,-0.984677413281483
+HW220920,422,posttest,10,2,aslg0810,They rowed the boat,They,rowed,boat,NA,1290.666667,aslg0810_8ch.wav,0.566288175658826,0,-0.954826009631762,-0.219109987738622
+HW220920,423,posttest,10,NaN,aslg0407,They're heading for the park,Theyre,heading,park,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,424,posttest,10,2,aslg0304,The curtains were too short,curtains,too,short,NA,1627.958333,aslg0304_8ch.wav,0.474272472820059,0,-0.46323759333432,-0.311125690577389
+HW220920,425,posttest,10,4,aslg0909,She's sewing on a button,Shes,sewing,button,NA,1461.333333,aslg0909_4ch.wav,0.785398163397448,1,-1.55865519070462,0
+HW220920,426,posttest,10,NaN,aslg0105,The cat played with some wool,cat,played,wool,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,427,posttest,10,4,bkbg1807,She talked to her doll,She,talked,doll,NA,1376,bkbg1807_4ch.wav,0.477674549620996,0,1.18823950475273,-0.307723613776453
+HW220920,428,posttest,10,3,bkbg0609,She had her pocket money,She,pocket,money,NA,1418.666667,bkbg0609_4ch.wav,1.69817687757714,0,-0.491471933204188,0.912778714179693
+HW220920,429,posttest,10,NaN,aslg0914,The book sits on the shelf,book,sits,shelf,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,430,posttest,10,3,aslg0711,They painted the ceiling,They,painted,ceiling,NA,1226.666667,aslg0711_4ch.wav,0.785398163397448,1,0.301165480418675,0
+HW220920,431,posttest,10,NaN,aslg0902,They parked by the station,They,parked,station,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,432,posttest,10,4,bkbg1201,The food cost a lot,food,cost,lot,NA,1440,bkbg1201_4ch.wav,0.785398163397448,1,-2.06470218162839,0
+HW220920,433,posttest,10,4,aslg1708,They ran up the hill,They,ran,hill,NA,1034.666667,aslg1708_4ch.wav,0.785398163397448,1,1.13254939485796,0
+HW220920,434,posttest,10,4,aslg0410,Someone's hiding in the bushes,Someones,hiding,bushes,NA,1898.666667,aslg0410_4ch.wav,0.982540756281483,0,1.12379661675957,0.197142592884035
+HW220920,435,posttest,10,1,aslg0709,The sailor stood on the deck,sailor,stood,deck,NA,1621.333333,aslg0709_8ch.wav,0.785398163397448,1,1.98035524913634,0
+HW220920,436,posttest,10,NaN,bkbg0805,The family bought a house,family,bought,house,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,437,posttest,10,4,bkbg1514,The mother tied the string,mother,tied,string,NA,1493.333333,bkbg1514_4ch.wav,0.785398163397448,1,-2.2943956219436,0
+HW220920,438,posttest,10,NaN,bkbg1212,The children help the milkman,children,help,milkman,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,439,posttest,10,1,aslg0803,The puppy licked his master,puppy,licked,master,NA,1653.333333,aslg0803_8ch.wav,1.69355178079312,0,0.200482577259966,0.908153617395671
+HW220920,440,posttest,10,1,bkbg2014,The two children are laughing,two,children,laughing,NA,1632,bkbg2014_8ch.wav,1.7624666228031,0,1.90740848075475,0.977068459405654
+HW220920,441,posttest,10,4,bkbg0706,Mother fetches a saucepan,Mother,fetches,saucepan,NA,1642.666667,bkbg0706_4ch.wav,0.785398163397448,1,-0.144468899627111,0
+HW220920,442,posttest,10,3,aslg0515,The nurse helped the child,nurse,helped,child,NA,1774.916667,aslg0515_4ch.wav,1.65906398550726,0,-0.137905070817295,0.873665822109809
+HW220920,443,posttest,10,3,aslg1110,The children cleared the table,children,cleared,table,NA,1699.104167,aslg1110_4ch.wav,-0.258757148985259,0,-0.852991465324003,-1.04415531238271
+HW220920,444,posttest,10,3,bkbg0614,The clever girls are reading,clever,girls,reading,NA,1557.333333,bkbg0614_4ch.wav,1.77582306676482,0,-2.09925478083124,0.990424903367372
+HW220920,445,posttest,10,4,aslg0510,The ship sailed up the river,ship,sailed,river,NA,1706.666667,aslg0510_4ch.wav,0.480587732544481,0,-2.23434624451064,-0.304810430852968
+HW220920,446,posttest,10,NaN,bkbg1309,They waited for one hour,They,waited,one,hour,NaN,,NaN,NaN,NaN,NaN
+HW220920,447,posttest,10,4,aslg1702,Mother cooked the dinner,Mother,cooked,dinner,NA,1141.333333,aslg1702_4ch.wav,1.02088298630385,0,-2.03471246915337,0.235484822906407
+HW220920,448,posttest,10,NaN,aslg1104,She polished her shoes,She,polished,shoes,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,449,posttest,10,2,aslg1311,The lady writes to her sister,lady,writes,sister,NA,1717.333333,aslg1311_8ch.wav,0.669440621539042,0,-1.89861413494185,-0.115957541858407
+HW220920,450,posttest,10,2,aslg0411,The waiter lit the candles,waiter,lit,candles,NA,1749.333333,aslg0411_8ch.wav,0.785398163397448,1,3.08092861127662,0
+HW220920,451,posttest,10,1,aslg0313,They picked some raspberries,They,picked,raspberries,NA,1866.666667,aslg0313_8ch.wav,0.785398163397448,1,-1.79279320041663,0
+HW220920,452,posttest,10,2,aslg0415,The lady changed her mind,lady,changed,mind,NA,1898.666667,aslg0415_8ch.wav,0.785398163397448,1,0.61947253110589,0
+HW220920,453,posttest,10,NaN,bkbg2004,He paid his bill,He,paid,bill,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,454,posttest,10,3,bkbg1501,A man’s turning the tap,mans,turning,tap,NA,1760,bkbg1501_4ch.wav,0.785398163397448,1,-0.363072910429159,0
+HW220920,455,posttest,10,3,bkbg0101,The clown had a funny face,clown,funny,face,NA,1920,bkbg0101_4ch.wav,0.785398163397448,1,-0.659328159293896,0
+HW220920,456,posttest,10,3,bkbg2103,A girl came into the room,girl,came,room,NA,1696,bkbg2103_4ch.wav,0.785398163397448,1,-2.49241971441887,0
+HW220920,457,posttest,10,NaN,bkbg0303,The kettle's quite hot,kettles,quite,hot,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,458,posttest,10,3,bkbg0901,The book tells a story,book,tells,story,NA,1525.333333,bkbg0901_4ch.wav,0.785398163397448,1,0.933529666996682,0
+HW220920,459,posttest,10,NaN,bkbg2005,The teacloth's quite wet,teacloths,quite,wet,NA,NaN,,NaN,NaN,NaN,NaN
+HW220920,460,posttest,10,1,bkbg1616,The painter used a brush,painter,used,brush,NA,1514.666667,bkbg1616_8ch.wav,1.64062960809112,0,0.75877747645728,0.855231444693674
